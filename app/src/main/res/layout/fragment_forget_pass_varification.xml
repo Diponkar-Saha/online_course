@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.forget_password.ForgetPassNewPassInputFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.login.LoginActivity">
+
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView16"
+            app:srcCompat="@drawable/ic_verification" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginEnd="25dp"
+            android:gravity="center"
+            android:text="Enter the Verification code we just sent you on your email address or phone number"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView12" />
+
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:gravity="center"
+            android:text="Verification"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/verification_code_constraint_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView18">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_code_1"
+                style="@style/PrimaryTextInputLayout"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:gravity="center_horizontal"
+                android:hint=""
+                android:textAlignment="center"
+                app:layout_constraintBottom_toBottomOf="@+id/verification_code_constraint_layout"
+                app:layout_constraintStart_toStartOf="@+id/verification_code_constraint_layout"
+                app:layout_constraintTop_toTopOf="@+id/verification_code_constraint_layout">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/input_code_1_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:maxLines="1"
+                    android:tag="1"
+                    android:textColor="@color/purple" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_code_2"
+                style="@style/PrimaryTextInputLayout"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_horizontal"
+                android:hint=""
+                android:textAlignment="center"
+                app:layout_constraintBottom_toBottomOf="@+id/input_code_1"
+                app:layout_constraintStart_toEndOf="@+id/input_code_1"
+                app:layout_constraintTop_toTopOf="@+id/input_code_1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/input_code_2_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:maxLines="1"
+                    android:tag="1"
+                    android:textColor="@color/purple" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_code_3"
+                style="@style/PrimaryTextInputLayout"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_horizontal"
+                android:hint=""
+                android:textAlignment="center"
+                app:layout_constraintBottom_toBottomOf="@+id/input_code_1"
+                app:layout_constraintStart_toEndOf="@+id/input_code_2"
+                app:layout_constraintTop_toTopOf="@+id/input_code_1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/input_code_3_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:maxLines="1"
+                    android:tag="1"
+                    android:textColor="@color/purple" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_code_4"
+                style="@style/PrimaryTextInputLayout"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_horizontal"
+                android:hint=""
+                android:textAlignment="center"
+                app:layout_constraintBottom_toBottomOf="@+id/input_code_1"
+                app:layout_constraintStart_toEndOf="@+id/input_code_3"
+                app:layout_constraintTop_toTopOf="@+id/input_code_1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/input_code_4_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:maxLines="1"
+                    android:tag="1"
+                    android:textColor="@color/purple" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_code_5"
+                style="@style/PrimaryTextInputLayout"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_horizontal"
+                android:hint=""
+                android:textAlignment="center"
+                app:layout_constraintBottom_toBottomOf="@+id/input_code_1"
+                app:layout_constraintStart_toEndOf="@+id/input_code_4"
+                app:layout_constraintTop_toTopOf="@+id/input_code_1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/input_code_5_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:maxLines="1"
+                    android:tag="1"
+                    android:textColor="@color/purple" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_code_6"
+                style="@style/PrimaryTextInputLayout"
+                android:layout_width="40dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="5dp"
+                android:gravity="center_horizontal"
+                android:hint=""
+                android:textAlignment="center"
+                app:layout_constraintBottom_toBottomOf="@+id/input_code_1"
+                app:layout_constraintStart_toEndOf="@+id/input_code_5"
+                app:layout_constraintTop_toTopOf="@+id/input_code_1">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/input_code_6_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="number"
+                    android:maxLength="1"
+                    android:maxLines="1"
+                    android:tag="1"
+                    android:textColor="@color/purple" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:text="Didn’t receive a code!"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.38"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/send_confirm_code_btn" />
+
+        <TextView
+            android:id="@+id/SignUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="Resend"
+            android:textColor="@color/light_blue"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@+id/textView17"
+            app:layout_constraintTop_toTopOf="@+id/textView17" />
+
+
+        <Button
+            android:id="@+id/send_confirm_code_btn1"
+            android:layout_width="@dimen/login_btn_width"
+            android:layout_height="@dimen/login_btn_height"
+            android:layout_marginTop="25dp"
+            android:text="VERIFY"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/verification_code_constraint_layout" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

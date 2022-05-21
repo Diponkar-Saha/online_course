@@ -1,0 +1,83 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amarischoolandroid-dev-174048-authRole",
+      "UnauthRoleArn": "arn:aws:iam::023630222055:role/amplify-amarischoolandroid-dev-174048-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::023630222055:role/amplify-amarischoolandroid-dev-174048-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-amarischoolandroid-dev-174048-deployment",
+      "UnauthRoleName": "amplify-amarischoolandroid-dev-174048-unauthRole",
+      "StackName": "amplify-amarischoolandroid-dev-174048",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:023630222055:stack/amplify-amarischoolandroid-dev-174048/1b9a1e30-a130-11ec-b7bb-0aa0f5016b70",
+      "AmplifyAppId": "d3nzu21aqqf9np"
+    }
+  },
+  "api": {
+    "amplifyDatasource": {
+      "service": "AppSync",
+      "providerPlugin": "awscloudformation",
+      "output": {
+        "authConfig": {
+          "additionalAuthenticationProviders": [],
+          "defaultAuthentication": {
+            "authenticationType": "AMAZON_COGNITO_USER_POOLS",
+            "userPoolConfig": {
+              "userPoolId": "authamarischoolandroid5c3db5d1"
+            }
+          }
+        },
+        "GraphQLAPIIdOutput": "nijepzds2bbuljyn7a5kquaihq",
+        "GraphQLAPIEndpointOutput": "https://26czqji3ozg73kjxyu2crx7u3u.appsync-api.ap-southeast-1.amazonaws.com/graphql"
+      },
+      "lastPushTimeStamp": "2022-03-12T06:55:46.354Z",
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-amarischoolandroid-dev-174048-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+        "logicalId": "apiamplifyDatasource"
+      },
+      "lastPushDirHash": "HgxNrs0PcnsG+soPxvZv5nyRhBs="
+    }
+  },
+  "auth": {
+    "amarischoolandroid5c3db5d1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "frontendAuthConfig": {
+        "socialProviders": [],
+        "usernameAttributes": [
+          "EMAIL"
+        ],
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": []
+        },
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-amarischoolandroid-dev-174048-deployment/amplify-cfn-templates/auth/amarischoolandroid5c3db5d1-cloudformation-template.json",
+        "logicalId": "authamarischoolandroid5c3db5d1"
+      },
+      "lastPushTimeStamp": "2022-03-12T06:55:46.354Z",
+      "output": {
+        "UserPoolId": "ap-southeast-1_sN4yt8M7j",
+        "AppClientIDWeb": "22o86dh1b5ve4bs2ffqdbleeru",
+        "AppClientID": "1oekthq7c8pclkk3358pi3cnni",
+        "IdentityPoolId": "ap-southeast-1:5015d3a0-96c2-4468-bb5a-15b19cf10332",
+        "UserPoolArn": "arn:aws:cognito-idp:ap-southeast-1:023630222055:userpool/ap-southeast-1_sN4yt8M7j",
+        "IdentityPoolName": "amarischoolandroid5c3db5d1_identitypool_5c3db5d1__dev",
+        "UserPoolName": "amarischoolandroid5c3db5d1_userpool_5c3db5d1"
+      },
+      "lastPushDirHash": "dZBbMgqx8OJ+6NRL/AtzQ4Pwy1o="
+    }
+  }
+}

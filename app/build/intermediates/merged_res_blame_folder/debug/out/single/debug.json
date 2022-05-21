@@ -1,0 +1,1402 @@
+[
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_option.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\option.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_optionx.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\optionx.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock1.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_lock1.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_explore_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_explore_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contact_us.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_duration.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\duration.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_appbar_layout.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\appbar_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bullet.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\bullet.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_new_thread.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\list_new_thread.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_edit1.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_edit1.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_app_logo_icon.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\app_logo_icon.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nogod.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\nogod.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_notifications_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_img_home_header.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_img_home_header.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forget_pass_new_pass_input.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forget_pass_new_pass_input.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_forum.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\list_forum.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icongreen.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\icongreen.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_star_rate_24.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\star_rate_24.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_bold.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bt_border.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\bt_border.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_select.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\tab_select.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ppmmm.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ppmmm.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_subs_page_one.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subs_page_one.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_content_list.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_list.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card_travel_24.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\card_travel_24.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_subdcription.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_subdcription.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_skrill.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\skrill.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_question.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_question.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_quize.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_quize.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_enterprise.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_enterprise.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_overview.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_linkedin_disabled.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_linkedin_disabled.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_edit2.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_edit2.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_course_available.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\no_course_available.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_title.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\tab_title.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_explore.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_explore.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_course_info_video.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\course_info_video.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_profile.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\content_profile.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forget_pass_email_input.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forget_pass_email_input.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blackmark.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\blackmark.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_explore_catagories.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_explore_catagories.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_switch_black.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\menu_switch_black.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pdf1.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\pdf1.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart_close_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_cart_close_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_single_wishlist_layout.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_single_wishlist_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_instructor.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_instructor.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_user.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_user.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_love_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_love_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sv_rounnd_bg.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\sv_rounnd_bg.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forget_pass_varification.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forget_pass_varification.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tabs_back_round.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\tabs_back_round.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noaccount.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\noaccount.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_verified_24.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\verified_24.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_product.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\product.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_github.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_github.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_reply.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_reply.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_privacy_policy.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_privacy_policy.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notify.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\notify.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_invoice.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\invoice.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_thread.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\list_thread.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_linkedin.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\linkedin.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_subscription_home.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\subscription_home.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_subscription.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\subscription.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_password_updated.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_password_updated.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_joinus_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_joinus_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_grade_ic.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\grade_ic.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_google.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\google.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_messenger.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_messenger.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_call2.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_call2.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linearbg.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\linearbg.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tutor.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_tutor.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_lock.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_lock.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dummy_user.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_dummy_user.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_beta_version.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_beta_version.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_certificate.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\certificate.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twitter.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\twitter.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mycourse_info_header.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\mycourse_info_header.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_courses.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_my_courses.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_faq_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_faq_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vector5.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\vector5.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bkash.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\bkash.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pu.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\pu.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_slider_img.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\slider_img.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enrooled.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\enrooled.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skill.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_skill.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\menu_settings_menu.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\menu\\settings_menu.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\email.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_email.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_buy.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_buy.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_awsconfiguration.json.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\raw\\awsconfiguration.json"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_buy_card_details.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_buy_card_details.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_instructor.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_instructor.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_call1.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_call1.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subscribe_bg.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\subscribe_bg.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dummy.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_dummy.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_course_demo_img.jpeg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\course_demo_img.jpeg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sb.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\sb.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_content_grid.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_grid.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login_image.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_login_image.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_content_courses_list.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_courses_list.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\location.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mentor1.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\mentor1.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_security_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_security_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_circle_outline.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\circle_outline.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_black_love.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\black_love.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_forget_pass_email.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_forget_pass_email.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_visa.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\visa.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ppmm.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ppmm.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_home_header.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\img_home_header.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_facebook.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_facebook.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_plus.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_plus.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_page.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart_demo_img.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\cart_demo_img.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_points.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_my_points.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_payment_settings.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_payment_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_list.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_sort_list.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about_course.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_about_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_certificates.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_certificates.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_toolbar_gradient.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\background_toolbar_gradient.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_enrollment.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_enrollment.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_more_course.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_more_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_social_network.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\menu_social_network.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_subscribe_update_course.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_subscribe_update_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_delete_icon.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\delete_icon.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weekvideoicon.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\weekvideoicon.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_twitter.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_twitter.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_general_settings.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_general_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sl.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\sl.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_default1.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\default1.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_point_week.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\point_week.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_question_multiple.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_question_multiple.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mail.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_mail.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_lesson.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_lesson.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img_head_black.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\img_head_black.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_pencil.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_pencil.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bug_back.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\bug_back.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_our_products.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_our_products.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_border.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_single_my_courses_layout.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_single_my_courses_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image_header_black.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\image_header_black.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_thumb.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\switch_custom_thumb.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_amar_ischool_ash.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\logo_amar_ischool_ash.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_heart_outlined.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_heart_outlined.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_facebook_disabled.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_facebook_disabled.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_best_review.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_best_review.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_permission_settings.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_permission_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_content_course_holder.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_course_holder.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_download.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_download.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_email1.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_email1.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_logout_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_title_image.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_title_image.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_relatedcourse.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_relatedcourse.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_call_btn.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\call_btn.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_right.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_right.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_profile_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_club_partnership_settings.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_club_partnership_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_youth.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\youth.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_child.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_subscription_all_course.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_subscription_all_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_our_products.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_our_products.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_quize.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_quize.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_grades.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_grades.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pi4.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\pi4.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_courseinfochips.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\courseinfochips.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_link_bg.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\link_bg.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_explore.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\explore.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_arrow_my_course.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\arrow_my_course.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_coursesyllabus.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_coursesyllabus.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_forget_pass_email___symbol.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_forget_pass_email___symbol.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_homepage.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\menu\\bottom_nav_homepage.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_right_arrow.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_right_arrow.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forum_list.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forum_list.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_interview.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\interview.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_point.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\point.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ye.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ye.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_custom_track.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\switch_custom_track.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder_error.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\placeholder_error.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_invoice.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_invoice.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mastercard.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\mastercard.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pi5.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\pi5.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_subscription_details.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subscription_details.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_forums.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forums.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_app_white_pink_ic.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\app_white_pink_ic.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notification_settings.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_notification_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\font\\roboto.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_primary.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\toolbar_primary.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_purchase_history.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_purchase_history.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_week_video.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_week_video.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_account.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\account.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_subs_page_twe.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subs_page_twe.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_about_us.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_about_us.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_webview_menuitem.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_webview_menuitem.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dropdown.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_dropdown.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tt.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\tt.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calendar_sync_settings.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_calendar_sync_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_week3.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_week3.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_app_logo.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\app_logo.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_search_box.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_search_box.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_wishlist_layout.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\wishlist_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_strikethrough_shape.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\strikethrough_shape.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_enterprise_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_enterprise_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pi6.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\pi6.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_course_more_button.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_course_more_button.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_explore_header.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_explore_header.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_shape_btn.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\round_shape_btn.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_background.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\tab_background.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_linkedin.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_linkedin.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_lock.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\icon_lock.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mycoursedetails.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\mycoursedetails.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ssl_main.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_ssl_main.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_points_use.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_points_use.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image_head_bg.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\image_head_bg.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_buy_profile.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_buy_profile.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_overshape.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\overshape.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_call.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_title_text.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_title_text.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sharecart.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\sharecart.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\group.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_experience.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_experience.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_all_threads.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_all_threads.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dummy_background.jpeg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\dummy_background.jpeg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrowp.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\arrowp.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instructor.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\instructor.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wishlist_view_cart.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_wishlist_view_cart.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_circle_shape.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\circle_shape.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_greenmark.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\greenmark.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_invoice.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_invoice.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_home_content_courses_grid.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_courses_grid.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pass_updated_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_pass_updated_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_terms_of_use.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_terms_of_use.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_heart_filled.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_heart_filled.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_subscription_more_button.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\subscription_more_button.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_job.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_job.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_courses_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_my_courses_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_threedott.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\threedott.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_more_forward.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\more_forward.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_verification.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_verification.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_upload.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_amar_ischool_white.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\logo_amar_ischool_white.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\menu_options_menu.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_menu_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_blog_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_blog_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_week1.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_week1.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_course_info.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_course_info.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_mycourseappbar.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\mycourseappbar.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mx.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\mx.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt.mp4.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\raw\\tt.mp4"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chips_start.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\chips_start.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_single_cart_layout.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_single_cart_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_explore_title.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_explore_title.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_header.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cart_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_cart_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_language.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\language.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mc.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\mc.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_explore.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_black_love.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_black_love.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\phone.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dark.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\dark.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_youtube.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_youtube.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oooo.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\oooo.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_slider_layout.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_slider_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sp.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\sp.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image11.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\image11.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coin.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\coin.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favourite.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_favourite.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_instagram.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_instagram.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_cv.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_cv.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_points_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_my_points_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toolbar_background.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\toolbar_background.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_video.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\video.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_contact_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_contact_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_subs_page_third.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subs_page_third.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_man.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_man.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image_head_sc.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\image_head_sc.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_invoice.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_invoice.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_language_change_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_language_change_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_contact_us.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\content_contact_us.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tiktok.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\tiktok.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder_loading.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\placeholder_loading.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image2.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\image2.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_certificate1.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\certificate1.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_select_bg.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\tab_select_bg.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_goal.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\goal.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vs.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\vs.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_webinar.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\webinar.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_subs2.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\subs2.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amplifyconfiguration.json.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\raw\\amplifyconfiguration.json"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sort_grid.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_sort_grid.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_github_disabled.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_github_disabled.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_enup.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\enup.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_instructor1.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\instructor1.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_email_confirmation.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_email_confirmation.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_messages.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_uu.jpg.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\uu.jpg"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_week2.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_week2.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_fb.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\ic_fb.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_upload.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable-v24\\upload.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_settings_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notes.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_notes.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_white.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\bg_white.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\facebook.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ash.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\bg_ash.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_icon.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_home_icon.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more_en.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\more_en.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone_logo.png.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\phone_logo.png"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_subscription.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subscription.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_product.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\drawable\\ic_product.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_invoicecustomview.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\invoicecustomview.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_week_item.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\week_item.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_spinner.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_test.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact.xml.flat",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+    }
+]

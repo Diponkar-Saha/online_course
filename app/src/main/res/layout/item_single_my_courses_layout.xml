@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="#E5E5E5"
+    >
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cardBtn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        style="@style/MyCourseFragmentCardView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:cardElevation="1dp"
+        app:cardMaxElevation="1dp"
+        app:cardCornerRadius="2dp"
+        app:cardUseCompatPadding="true"
+
+
+        >
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/courseImg"
+                android:layout_width="86dp"
+                android:layout_height="60dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="14dp"
+                android:src="@drawable/course_demo_img"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:shapeAppearance="@style/RoundedSquare"
+                app:strokeColor="@color/background"
+                app:strokeWidth="2dp" />
+
+            <TextView
+                android:id="@+id/courseTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="14dp"
+                android:layout_weight="1"
+                android:text="Software Quality Assurance ( SQA ) Placement Preparation Freshers"
+                android:textColor="@color/text_color"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/courseImg"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <RatingBar
+                android:id="@+id/courseRatingBar"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="82dp"
+                android:layout_height="16dp"
+                android:layout_marginStart="16dp"
+                android:isIndicator="false"
+                android:numStars="5"
+                android:progressTint="#ffc600"
+                android:rating="4.5"
+                android:secondaryProgressTint="#9B32C8"
+                android:stepSize="0.5"
+                app:layout_constraintStart_toEndOf="@+id/courseImg"
+                app:layout_constraintTop_toBottomOf="@+id/instructorOccupationTextView" />
+
+
+            <TextView
+                android:id="@+id/ratingTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:text="4.5"
+                android:textSize="10sp"
+                app:layout_constraintStart_toEndOf="@+id/courseRatingBar"
+                app:layout_constraintTop_toTopOf="@+id/courseRatingBar" />
+
+            <TextView
+                android:id="@+id/instructorNameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="8dp"
+                android:text="Jhone Smith"
+                android:textColor="#333333"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toEndOf="@+id/courseImg"
+                app:layout_constraintTop_toBottomOf="@+id/courseTitle" />
+
+            <TextView
+                android:id="@+id/instructorOccupationTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="3dp"
+                android:text="SQA Engineer at Cefalo"
+                android:textColor="#333333"
+                android:textSize="10sp"
+                app:layout_constraintStart_toEndOf="@+id/courseImg"
+                app:layout_constraintTop_toBottomOf="@+id/instructorNameTextView" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/progressConstraintLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="5dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/courseRatingBar">
+
+                <TextView
+                    android:id="@+id/progressTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="7dp"
+                    android:text="In Progress..."
+                    android:textColor="#333333"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <TextView
+                    android:id="@+id/progressPercentTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="8dp"
+                    android:text="70%"
+                    android:textColor="#333333"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/progressTextView" />
+
+                <ProgressBar
+                    android:id="@+id/courseProgressBar"
+                    style="@android:style/Widget.ProgressBar.Horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="13dp"
+                    android:layout_marginStart="43dp"
+                    android:layout_marginEnd="20dp"
+                    android:backgroundTint="#CCCCCC"
+                    android:foregroundTint="#625A99"
+                    android:indeterminateTint="#CCCCCC"
+                    android:progress="70"
+                    android:progressBackgroundTint="#CCCCCC"
+                    android:progressTint="#625A99"
+                    android:progressTintMode="src_atop"
+                    android:secondaryProgressTint="#CCCCCC"
+                    android:secondaryProgressTintMode="src_atop"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toEndOf="@+id/progressPercentTextView"
+                    app:layout_constraintTop_toTopOf="@+id/progressPercentTextView" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/lineConstraintLayout"
+                android:layout_width="match_parent"
+                android:layout_height="1.5dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/black"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/progressConstraintLayout" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/weekConstraintLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="5dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/lineConstraintLayout">
+
+                <TextView
+                    android:id="@+id/weekHeaderTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_marginTop="7dp"
+                    android:text="Week 5 -"
+                    android:textColor="#333333"
+                    android:textSize="10sp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/weeksLeftTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Two weeks left"
+                    android:textColor="#333333"
+                    android:textSize="10sp"
+                    app:layout_constraintStart_toEndOf="@+id/weekHeaderTextView"
+                    app:layout_constraintTop_toTopOf="@+id/weekHeaderTextView" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/exploreMyCourseBtn"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_marginEnd="20dp"
+                    android:src="@drawable/arrow_my_course"
+
+                    app:iconPadding="0dp"
+                    app:iconGravity="textStart"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/weeksLeftTextView"/>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

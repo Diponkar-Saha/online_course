@@ -1,0 +1,500 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pioneeralpha.amarischool"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml
+10
+11    <queries>
+11-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:6:5-11:15
+12        <package android:name="com.facebook.katana" />
+12-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:7:9-55
+12-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:7:18-52
+13        <package android:name="com.facebook.lite" />
+13-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:8:9-53
+13-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:8:18-50
+14        <package android:name="com.facebook.android" />
+14-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:9:9-56
+14-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:9:18-53
+15        <package android:name="com.example.facebook" />
+15-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:10:9-56
+15-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:10:18-53
+16        <!-- Needs to be explicitly declared on Android R+ -->
+17        <package android:name="com.google.android.apps.maps" />
+17-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:9-64
+17-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:33:18-61
+18    </queries>
+19
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:13:5-67
+20-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:13:22-64
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:14:5-81
+21-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:14:22-78
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:15:5-80
+22-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:15:22-77
+23
+24    <!-- Include required permissions for Google Maps API to run. -->
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:5-79
+25-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:23:22-76
+26
+27    <uses-feature
+27-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:26:5-28:35
+28        android:glEsVersion="0x00020000"
+28-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:27:9-41
+29        android:required="true" /> <!-- <uses-permission android:name="android.permission.ACCESS_ALL_DOWNLOADS" /> -->
+29-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:28:9-32
+30    <supports-screens
+30-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:15:5-19:39
+31        android:anyDensity="true"
+31-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:16:9-34
+32        android:largeScreens="true"
+32-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:17:9-36
+33        android:normalScreens="true"
+33-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:18:9-37
+34        android:smallScreens="true" />
+34-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:19:9-36
+35
+36    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" /> <!-- Permission will be merged into the manifest of the hosting app. -->
+36-->[com.android.installreferrer:installreferrer:1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\852e31951f4447911c9fb611b206a273\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+36-->[com.android.installreferrer:installreferrer:1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\852e31951f4447911c9fb611b206a273\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
+37    <!-- Is required to launch foreground extraction service for targetSdkVersion 28+. -->
+38    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+38-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:8:3-74
+38-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:8:20-72
+39
+40    <application
+40-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:19:5-99:19
+41        android:name="com.pioneeralpha.amarischool.AmplifyApp"
+41-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:20:9-35
+42        android:allowBackup="true"
+42-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:21:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.5.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\d23670caef41e2a903575882a67ea2e7\core-1.5.0\AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:extractNativeLibs="false"
+46        android:hardwareAccelerated="true"
+46-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:22:9-43
+47        android:icon="@mipmap/ic_launcher"
+47-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:23:9-43
+48        android:label="@string/app_name"
+48-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:24:9-41
+49        android:largeHeap="true"
+49-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:24:9-33
+50        android:roundIcon="@mipmap/ic_launcher_round"
+50-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:25:9-54
+51        android:supportsRtl="true"
+51-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:26:9-35
+52        android:testOnly="true"
+53        android:theme="@style/Theme.AmariSchool"
+53-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:27:9-49
+54        android:usesCleartextTraffic="true" >
+54-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:26:9-44
+55        <meta-data
+55-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:29:9-107
+56            android:name="com.facebook.sdk.ApplicationId"
+56-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:29:20-65
+57            android:value="@string/facebook_app_id" />
+57-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:29:66-105
+58        <meta-data
+58-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:30:9-111
+59            android:name="com.facebook.sdk.ClientToken"
+59-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:30:20-63
+60            android:value="@string/facebook_client_token" />
+60-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:30:64-109
+61
+62        <activity
+62-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:32:9-40:20
+63            android:name="com.pioneeralpha.amarischool.SplashActivity"
+63-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:33:13-43
+64            android:exported="true" >
+64-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:34:13-36
+65            <intent-filter>
+65-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:35:13-38:29
+66                <action android:name="android.intent.action.MAIN" />
+66-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:36:17-69
+66-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:36:25-66
+67
+68                <category android:name="android.intent.category.LAUNCHER" />
+68-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:37:17-77
+68-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:37:27-74
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:41:9-43:40
+72            android:name="com.pioneeralpha.amarischool.ui.EmailConfirmationActivity"
+72-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:42:13-57
+73            android:exported="false" />
+73-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:43:13-37
+74        <activity
+74-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:44:9-46:40
+75            android:name="com.pioneeralpha.amarischool.ui.cart.buy.InvoiceActivity"
+75-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:45:13-56
+76            android:exported="false" />
+76-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:46:13-37
+77        <activity
+77-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:47:9-49:40
+78            android:name="com.pioneeralpha.amarischool.ui.cart.buy.SslMainActivity"
+78-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:48:13-56
+79            android:exported="false" />
+79-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:49:13-37
+80        <activity
+80-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:50:9-52:40
+81            android:name="com.pioneeralpha.amarischool.ui.menu.webview.WebviewMenuitemActivity"
+81-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:51:13-68
+82            android:exported="false" />
+82-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:52:13-37
+83        <activity
+83-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:53:9-55:40
+84            android:name="com.pioneeralpha.amarischool.ui.profile.InstructorActivity"
+84-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:54:13-58
+85            android:exported="false" />
+85-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:55:13-37
+86        <activity
+86-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:56:9-58:40
+87            android:name="com.pioneeralpha.amarischool.ui.dashboard.DashboardActivity"
+87-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:57:13-59
+88            android:exported="false" />
+88-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:58:13-37
+89        <activity
+89-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:59:9-61:40
+90            android:name="com.pioneeralpha.amarischool.ui.enterprise.EnterpriseActivity"
+90-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:60:13-61
+91            android:exported="false" />
+91-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:61:13-37
+92        <activity
+92-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:62:9-64:40
+93            android:name="com.pioneeralpha.amarischool.ui.our_products.OurProductsActivity"
+93-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:63:13-64
+94            android:exported="false" />
+94-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:64:13-37
+95        <activity
+95-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:65:9-67:40
+96            android:name="com.pioneeralpha.amarischool.ui.profile.ProfileActivity"
+96-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:66:13-55
+97            android:exported="false" />
+97-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:67:13-37
+98        <activity
+98-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:68:9-70:40
+99            android:name="com.pioneeralpha.amarischool.ui.forget_password.PasswordUpdatedActivity"
+99-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:69:13-71
+100            android:exported="false" />
+100-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:70:13-37
+101        <activity
+101-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:71:9-73:40
+102            android:name="com.pioneeralpha.amarischool.ui.forget_password.ForgetPasswordActivity"
+102-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:72:13-70
+103            android:exported="false" />
+103-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:73:13-37
+104        <activity
+104-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:74:9-76:39
+105            android:name="com.pioneeralpha.amarischool.ui.SignupActivity"
+105-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:75:13-46
+106            android:exported="true" />
+106-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:76:13-36
+107        <activity
+107-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:77:9-81:20
+108            android:name="com.pioneeralpha.amarischool.ui.login.LoginActivity"
+108-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:78:13-51
+109            android:exported="true" >
+109-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:79:13-36
+110        </activity>
+111        <activity
+111-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:82:9-85:65
+112            android:name="com.pioneeralpha.amarischool.ui.contactus.ContactUsActivity"
+112-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:83:13-59
+113            android:exported="false"
+113-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:84:13-37
+114            android:label="@string/title_activity_contact_us" />
+114-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:85:13-62
+115        <activity
+115-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:86:9-88:40
+116            android:name="com.pioneeralpha.amarischool.ui.settings.SettingsActivity"
+116-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:87:13-57
+117            android:exported="false" />
+117-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:88:13-37
+118        <activity
+118-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:89:9-91:40
+119            android:name="com.pioneeralpha.amarischool.ui.home.HomePageActivity"
+119-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:90:13-53
+120            android:exported="false" />
+120-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:91:13-37
+121        <activity
+121-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:92:9-94:40
+122            android:name="com.pioneeralpha.amarischool.ui.MainActivity"
+122-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:93:13-44
+123            android:exported="false" />
+123-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:94:13-37
+124
+125        <meta-data
+125-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:96:9-98:57
+126            android:name="preloaded_fonts"
+126-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:97:13-43
+127            android:resource="@array/preloaded_fonts" />
+127-->G:\amar_ischool_android\app\src\main\AndroidManifest.xml:98:13-54
+128
+129        <activity
+129-->[com.amplifyframework:core:1.32.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\ef0c2bcb8e6dc569ec1563cd137cd7ec\jetified-core-1.32.1\AndroidManifest.xml:27:9-29:54
+130            android:name="com.amplifyframework.devmenu.DeveloperMenuActivity"
+130-->[com.amplifyframework:core:1.32.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\ef0c2bcb8e6dc569ec1563cd137cd7ec\jetified-core-1.32.1\AndroidManifest.xml:28:13-78
+131            android:theme="@style/OverlayActivity" />
+131-->[com.amplifyframework:core:1.32.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\ef0c2bcb8e6dc569ec1563cd137cd7ec\jetified-core-1.32.1\AndroidManifest.xml:29:13-51
+132        <activity
+132-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:30:9-33:66
+133            android:name="com.facebook.FacebookActivity"
+133-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:31:13-57
+134            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+134-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:32:13-96
+135            android:theme="@style/com_facebook_activity_theme" />
+135-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:33:13-63
+136        <activity android:name="com.facebook.CustomTabMainActivity" />
+136-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:34:9-71
+136-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:34:19-68
+137        <activity
+137-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:35:9-49:20
+138            android:name="com.facebook.CustomTabActivity"
+138-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:36:13-58
+139            android:exported="true" >
+139-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:37:13-36
+140            <intent-filter>
+140-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:39:13-48:29
+141                <action android:name="android.intent.action.VIEW" />
+141-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:40:17-69
+141-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:40:25-66
+142
+143                <category android:name="android.intent.category.DEFAULT" />
+143-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:42:17-76
+143-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:42:27-73
+144                <category android:name="android.intent.category.BROWSABLE" />
+144-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:43:17-78
+144-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:43:27-75
+145
+146                <data
+146-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:45:17-47:50
+147                    android:host="cct.com.pioneeralpha.amarischool"
+147-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:46:21-56
+148                    android:scheme="fbconnect" />
+148-->[com.facebook.android:facebook-common:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\09022b418367d210fc08303643c6a3e6\jetified-facebook-common-13.0.0\AndroidManifest.xml:47:21-47
+149            </intent-filter>
+150        </activity>
+151
+152        <provider
+152-->[com.squareup.picasso:picasso:2.71828] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3eab33698bd6e3ac4971a57fe3a13140\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+153            android:name="com.squareup.picasso.PicassoProvider"
+153-->[com.squareup.picasso:picasso:2.71828] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3eab33698bd6e3ac4971a57fe3a13140\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+154            android:authorities="com.pioneeralpha.amarischool.com.squareup.picasso"
+154-->[com.squareup.picasso:picasso:2.71828] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3eab33698bd6e3ac4971a57fe3a13140\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+155            android:exported="false" />
+155-->[com.squareup.picasso:picasso:2.71828] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3eab33698bd6e3ac4971a57fe3a13140\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+156        <!--
+157         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+158         with the application context. This config is merged in with the host app's manifest,
+159         but there can only be one provider with the same authority activated at any given
+160         point; so if the end user has two or more different apps that use Facebook SDK, only the
+161         first one will be able to use the provider. To work around this problem, we use the
+162         following placeholder in the authority to identify each host application as if it was
+163         a completely different provider.
+164        -->
+165        <provider
+165-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:41:9-44:40
+166            android:name="com.facebook.internal.FacebookInitProvider"
+166-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:42:13-70
+167            android:authorities="com.pioneeralpha.amarischool.FacebookInitProvider"
+167-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:43:13-72
+168            android:exported="false" />
+168-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:44:13-37
+169
+170        <receiver
+170-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:46:9-52:20
+171            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+171-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:47:13-86
+172            android:exported="false" >
+172-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:48:13-37
+173            <intent-filter>
+173-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:49:13-51:29
+174                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+174-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:50:17-95
+174-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:50:25-92
+175            </intent-filter>
+176        </receiver>
+177        <receiver
+177-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:53:9-59:20
+178            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+178-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:54:13-118
+179            android:exported="false" >
+179-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:55:13-37
+180            <intent-filter>
+180-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:56:13-58:29
+181                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+181-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:57:17-103
+181-->[com.facebook.android:facebook-core:13.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\379480813f674a78ff337a4447cc5913\jetified-facebook-core-13.0.0\AndroidManifest.xml:57:25-100
+182            </intent-filter>
+183        </receiver> <!-- Needs to be explicitly declared on P+ -->
+184        <uses-library
+184-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:39:9-41:40
+185            android:name="org.apache.http.legacy"
+185-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:40:13-50
+186            android:required="false" />
+186-->[com.google.android.gms:play-services-maps:17.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\3c3d096a57051d67421526c6745f16c2\jetified-play-services-maps-17.0.1\AndroidManifest.xml:41:13-37
+187
+188        <activity
+188-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:27:9-32:67
+189            android:name="com.sslwireless.sslcommerzlibrary.view.activity.MainUIActivitySSLC"
+189-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:28:13-94
+190            android:configChanges="layoutDirection|locale"
+190-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:29:13-59
+191            android:screenOrientation="portrait"
+191-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:30:13-49
+192            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+192-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:31:13-69
+193            android:windowSoftInputMode="stateHidden|adjustPan" />
+193-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:32:13-64
+194        <activity
+194-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:33:9-37:58
+195            android:name="com.sslwireless.sslcommerzlibrary.view.activity.WebViewActivitySSLC"
+195-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:34:13-95
+196            android:screenOrientation="portrait"
+196-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:35:13-49
+197            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+197-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:36:13-69
+198            android:windowSoftInputMode="adjustResize" />
+198-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:37:13-55
+199        <activity
+199-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:38:9-42:55
+200            android:name="com.sslwireless.sslcommerzlibrary.view.activity.SSLOffersActivitySSLC"
+200-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:39:13-97
+201            android:screenOrientation="portrait"
+201-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:40:13-49
+202            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+202-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:41:13-69
+203            android:windowSoftInputMode="adjustPan" />
+203-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:42:13-52
+204        <activity
+204-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:43:9-47:55
+205            android:name="com.sslwireless.sslcommerzlibrary.view.activity.FAQActivitySSLC"
+205-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:44:13-91
+206            android:screenOrientation="portrait"
+206-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:45:13-49
+207            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+207-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:46:13-69
+208            android:windowSoftInputMode="adjustPan" />
+208-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:47:13-52
+209        <activity
+209-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:48:9-52:55
+210            android:name="com.sslwireless.sslcommerzlibrary.view.activity.SupportActivitySSLC"
+210-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:49:13-95
+211            android:screenOrientation="portrait"
+211-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:50:13-49
+212            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+212-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:51:13-69
+213            android:windowSoftInputMode="adjustPan" />
+213-->[:sslCommerzSdk:] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\a1d4252481ba93d1a4cab6cdf1721ea2\jetified-sslCommerzSdk\AndroidManifest.xml:52:13-52
+214        <activity
+214-->[com.amazonaws:aws-android-sdk-cognitoauth:2.19.3] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\067be301f84b208b5aa3bb164a0e0f91\jetified-aws-android-sdk-cognitoauth-2.19.3\AndroidManifest.xml:13:9-17:75
+215            android:name="com.amazonaws.mobileconnectors.cognitoauth.activities.CustomTabsManagerActivity"
+215-->[com.amazonaws:aws-android-sdk-cognitoauth:2.19.3] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\067be301f84b208b5aa3bb164a0e0f91\jetified-aws-android-sdk-cognitoauth-2.19.3\AndroidManifest.xml:14:13-107
+216            android:exported="false"
+216-->[com.amazonaws:aws-android-sdk-cognitoauth:2.19.3] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\067be301f84b208b5aa3bb164a0e0f91\jetified-aws-android-sdk-cognitoauth-2.19.3\AndroidManifest.xml:15:13-37
+217            android:launchMode="singleTask"
+217-->[com.amazonaws:aws-android-sdk-cognitoauth:2.19.3] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\067be301f84b208b5aa3bb164a0e0f91\jetified-aws-android-sdk-cognitoauth-2.19.3\AndroidManifest.xml:16:13-44
+218            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+218-->[com.amazonaws:aws-android-sdk-cognitoauth:2.19.3] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\067be301f84b208b5aa3bb164a0e0f91\jetified-aws-android-sdk-cognitoauth-2.19.3\AndroidManifest.xml:17:13-72
+219        <activity
+219-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
+220            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+220-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
+221            android:excludeFromRecents="true"
+221-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
+222            android:exported="false"
+222-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
+223            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+223-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
+224        <!--
+225            Service handling Google Sign-In user revocation. For apps that do not integrate with
+226            Google Sign-In, this service will never be started.
+227        -->
+228        <service
+228-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
+229            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+229-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
+230            android:exported="true"
+230-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
+231            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+231-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
+232            android:visibleToInstantApps="true" />
+232-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\f6a7cf1716df0f52b72b744561d01b6b\jetified-play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
+233
+234        <activity
+234-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\5722e25bc5f3213ed9f24235b4b4301d\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+235            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+235-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\5722e25bc5f3213ed9f24235b4b4301d\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+236            android:exported="false"
+236-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\5722e25bc5f3213ed9f24235b4b4301d\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+237            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+237-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\5722e25bc5f3213ed9f24235b4b4301d\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+238
+239        <meta-data
+239-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\e515e0ddcd375c5ddc1873fffbe91bda\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+240            android:name="com.google.android.gms.version"
+240-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\e515e0ddcd375c5ddc1873fffbe91bda\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+241            android:value="@integer/google_play_services_version" /> <!-- The activities will be merged into the manifest of the hosting app. -->
+241-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\e515e0ddcd375c5ddc1873fffbe91bda\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+242        <activity
+242-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:12:5-271
+243            android:name="com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity"
+243-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:12:15-102
+244            android:enabled="false"
+244-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:12:103-126
+245            android:exported="false"
+245-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:12:127-151
+246            android:launchMode="singleInstance"
+246-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:12:204-239
+247            android:process=":playcore_missing_splits_activity"
+247-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:12:152-203
+248            android:stateNotNeeded="true" />
+248-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:12:240-269
+249        <activity
+249-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:13:5-226
+250            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+250-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:13:15-95
+251            android:enabled="false"
+251-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:13:96-119
+252            android:exported="false"
+252-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:13:120-144
+253            android:stateNotNeeded="true"
+253-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:13:145-174
+254            android:theme="@style/Theme.PlayCore.Transparent" /> <!-- The services will be merged into the manifest of the hosting app. -->
+254-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:13:175-224
+255        <service
+255-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:16:5-18:15
+256            android:name="com.google.android.play.core.assetpacks.AssetPackExtractionService"
+256-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:16:14-95
+257            android:enabled="false"
+257-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:16:96-119
+258            android:exported="true" >
+258-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:16:120-143
+259            <meta-data
+259-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:17:7-108
+260                android:name="com.google.android.play.core.assetpacks.versionCode"
+260-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:17:18-84
+261                android:value="10901" />
+261-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:17:85-106
+262        </service>
+263        <service
+263-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:19:5-147
+264            android:name="com.google.android.play.core.assetpacks.ExtractionForegroundService"
+264-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:19:14-96
+265            android:enabled="false"
+265-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:19:97-120
+266            android:exported="false" />
+266-->[com.google.android.play:core:1.9.1] C:\Users\disah\.gradle\caches\transforms-2\files-2.1\352cf3f05bd2f267829d9b5a080ab130\jetified-core-1.9.1\AndroidManifest.xml:19:121-145
+267    </application>
+268
+269</manifest>

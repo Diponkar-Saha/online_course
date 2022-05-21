@@ -1,0 +1,512 @@
+com/pioneeralpha/amarischool/utils/MyPreferences.java
+ com.pioneeralpha.amarischool.utils.MyPreferences
+com/pioneeralpha/amarischool/databinding/TabTitleBinding.java
+ com.pioneeralpha.amarischool.databinding.TabTitleBinding
+com/pioneeralpha/amarischool/databinding/FragmentEnrollmentBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentEnrollmentBinding
+com/pioneeralpha/amarischool/databinding/ActivityInvoiceBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityInvoiceBinding
+com/pioneeralpha/amarischool/WishlistFragment.java
+ com.pioneeralpha.amarischool.WishlistFragment
+com/pioneeralpha/amarischool/databinding/FragmentExperienceBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentExperienceBinding
+com/pioneeralpha/amarischool/databinding/ItemQuestionMultipleBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemQuestionMultipleBinding
+com/pioneeralpha/amarischool/ui/home/model/HomeItems.java
+ com.pioneeralpha.amarischool.ui.home.model.HomeItems
+com/pioneeralpha/amarischool/ui/dashboard/fragments/NotesFragment.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.NotesFragment
+com/pioneeralpha/amarischool/databinding/ItemInstructorBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemInstructorBinding
+com/pioneeralpha/amarischool/databinding/FragmentInvoiceBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentInvoiceBinding
+com/pioneeralpha/amarischool/ui/menu/subscription/details/SubscriptionDetailsAdapter.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.SubscriptionDetailsAdapter
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.SubscriptionDetailsAdapter$OnItemClickListener
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.SubscriptionDetailsAdapter$SubscriptionDetailsViewHolder
+com/pioneeralpha/amarischool/models/CartModel.java
+ com.pioneeralpha.amarischool.models.CartModel
+com/pioneeralpha/amarischool/databinding/ActivityPasswordUpdatedBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityPasswordUpdatedBinding
+com/pioneeralpha/amarischool/databinding/MenuSocialNetworkBinding.java
+ com.pioneeralpha.amarischool.databinding.MenuSocialNetworkBinding
+com/pioneeralpha/amarischool/ui/dashboard/fragments/mypoints/MyPointsListAdapter.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.mypoints.MyPointsListAdapter
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.mypoints.MyPointsListAdapter$MyPointslistViewHolder
+com/pioneeralpha/amarischool/databinding/ItemBuyProfileBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemBuyProfileBinding
+com/pioneeralpha/amarischool/databinding/MycoursedetailsBinding.java
+ com.pioneeralpha.amarischool.databinding.MycoursedetailsBinding
+com/pioneeralpha/amarischool/databinding/ItemSingleWishlistLayoutBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSingleWishlistLayoutBinding
+com/pioneeralpha/amarischool/databinding/FragmentMyCoursesBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentMyCoursesBinding
+com/pioneeralpha/amarischool/databinding/FragmentMenuBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentMenuBinding
+com/pioneeralpha/amarischool/models/Image.java
+ com.pioneeralpha.amarischool.models.Image
+com/pioneeralpha/amarischool/databinding/ActivityOurProductsBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityOurProductsBinding
+com/pioneeralpha/amarischool/databinding/ActivitySignupBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivitySignupBinding
+com/pioneeralpha/amarischool/databinding/ListForumBinding.java
+ com.pioneeralpha.amarischool.databinding.ListForumBinding
+com/pioneeralpha/amarischool/ui/mycourses/MyCoursesFragment.java
+ com.pioneeralpha.amarischool.ui.mycourses.MyCoursesFragment
+com/pioneeralpha/amarischool/ExploreFragment.java
+ com.pioneeralpha.amarischool.ExploreFragment
+com/pioneeralpha/amarischool/ui/dashboard/fragments/CertificatesFragment.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.CertificatesFragment
+com/pioneeralpha/amarischool/databinding/FragmentCertificatesBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentCertificatesBinding
+com/pioneeralpha/amarischool/databinding/FragmentClubPartnershipSettingsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentClubPartnershipSettingsBinding
+com/pioneeralpha/amarischool/models/MyPointsModel.java
+ com.pioneeralpha.amarischool.models.MyPointsModel
+com/pioneeralpha/amarischool/models/SubscriptionItem.java
+ com.pioneeralpha.amarischool.models.SubscriptionItem
+com/pioneeralpha/amarischool/databinding/ChildBinding.java
+ com.pioneeralpha.amarischool.databinding.ChildBinding
+com/pioneeralpha/amarischool/ui/menu/subscription/details/SubscribeUpdateCourseAdapter.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.SubscribeUpdateCourseAdapter
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.SubscribeUpdateCourseAdapter$OnItemClickListener
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.SubscribeUpdateCourseAdapter$SubscriptionUpdatCourseeViewHolder
+com/pioneeralpha/amarischool/adapters/ExploreRecyclerAdapter.java
+ com.pioneeralpha.amarischool.adapters.ExploreRecyclerAdapter
+ com.pioneeralpha.amarischool.adapters.ExploreRecyclerAdapter$ExploreViewHolder
+ com.pioneeralpha.amarischool.adapters.ExploreRecyclerAdapter$ItemClickListener
+com/pioneeralpha/amarischool/databinding/ItemSliderLayoutBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSliderLayoutBinding
+com/pioneeralpha/amarischool/databinding/ActivityDashboardBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityDashboardBinding
+com/pioneeralpha/amarischool/utils/Config.java
+ com.pioneeralpha.amarischool.utils.Config
+com/pioneeralpha/amarischool/ui/settings/SettingsViewPagerAdapter.java
+ com.pioneeralpha.amarischool.ui.settings.SettingsViewPagerAdapter
+com/pioneeralpha/amarischool/databinding/FragmentSubsPageThirdBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentSubsPageThirdBinding
+com/pioneeralpha/amarischool/databinding/ItemOurProductsBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemOurProductsBinding
+com/pioneeralpha/amarischool/databinding/ActivityMainBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityMainBinding
+com/pioneeralpha/amarischool/databinding/ItemSpinnerBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSpinnerBinding
+com/pioneeralpha/amarischool/ui/menu/subscription/details/subscription/ViewPagerAdapter.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.subscription.ViewPagerAdapter
+com/pioneeralpha/amarischool/databinding/ItemInvoiceBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemInvoiceBinding
+com/pioneeralpha/amarischool/databinding/ItemWeekVideoBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemWeekVideoBinding
+com/pioneeralpha/amarischool/databinding/WishlistLayoutBinding.java
+ com.pioneeralpha.amarischool.databinding.WishlistLayoutBinding
+com/pioneeralpha/amarischool/databinding/FragmentMoreCourseBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentMoreCourseBinding
+com/pioneeralpha/amarischool/adapters/ExpandableListAdapter.java
+ com.pioneeralpha.amarischool.adapters.ExpandableListAdapter
+com/pioneeralpha/amarischool/MoreCourseFragment.java
+ com.pioneeralpha.amarischool.MoreCourseFragment
+com/pioneeralpha/amarischool/models/Category.java
+ com.pioneeralpha.amarischool.models.Category
+com/pioneeralpha/amarischool/databinding/FragmentTutorBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentTutorBinding
+com/pioneeralpha/amarischool/databinding/ItemRelatedcourseBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemRelatedcourseBinding
+com/pioneeralpha/amarischool/databinding/ListNewThreadBinding.java
+ com.pioneeralpha.amarischool.databinding.ListNewThreadBinding
+com/pioneeralpha/amarischool/databinding/FragmentPaymentSettingsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentPaymentSettingsBinding
+com/pioneeralpha/amarischool/ui/dashboard/fragments/mypoints/MyPointsFragment.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.mypoints.MyPointsFragment
+com/pioneeralpha/amarischool/databinding/FragmentNotificationSettingsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentNotificationSettingsBinding
+com/pioneeralpha/amarischool/databinding/ItemSubdcriptionBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSubdcriptionBinding
+com/pioneeralpha/amarischool/ui/forget_password/ForgetPasswordActivity.java
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPasswordActivity
+com/pioneeralpha/amarischool/databinding/ItemCoursesyllabusBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemCoursesyllabusBinding
+com/pioneeralpha/amarischool/databinding/FragmentSubsPageTweBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentSubsPageTweBinding
+com/pioneeralpha/amarischool/databinding/ActivityEmailConfirmationBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityEmailConfirmationBinding
+com/pioneeralpha/amarischool/databinding/ActivityProfileBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityProfileBinding
+com/pioneeralpha/amarischool/ui/home/model/HeaderItem.java
+ com.pioneeralpha.amarischool.ui.home.model.HeaderItem
+com/pioneeralpha/amarischool/databinding/ItemHomeContentCoursesListBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeContentCoursesListBinding
+com/pioneeralpha/amarischool/adapters/ThreadAdapter.java
+ com.pioneeralpha.amarischool.adapters.ThreadAdapter
+ com.pioneeralpha.amarischool.adapters.ThreadAdapter$MyForumViewHolder
+ com.pioneeralpha.amarischool.adapters.ThreadAdapter$MyForumViewHolder$1
+ com.pioneeralpha.amarischool.adapters.ThreadAdapter$OnCardListener
+com/pioneeralpha/amarischool/databinding/ItemSubscriptionAllCourseBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSubscriptionAllCourseBinding
+com/pioneeralpha/amarischool/databinding/FragmentOverviewBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentOverviewBinding
+com/pioneeralpha/amarischool/ui/menu/subscription/SubscriptionAdapter.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.SubscriptionAdapter
+ com.pioneeralpha.amarischool.ui.menu.subscription.SubscriptionAdapter$OnItemClickListener
+ com.pioneeralpha.amarischool.ui.menu.subscription.SubscriptionAdapter$SubscriptionViewHolder
+com/pioneeralpha/amarischool/databinding/FragmentCourseInfoBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentCourseInfoBinding
+com/pioneeralpha/amarischool/adapters/HomeSubcriptionAdapter.java
+ com.pioneeralpha.amarischool.adapters.HomeSubcriptionAdapter
+ com.pioneeralpha.amarischool.adapters.HomeSubcriptionAdapter$ExploreViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeSubcriptionAdapter$ItemClickListener
+com/pioneeralpha/amarischool/ui/cart/buy/InvoiceActivity.java
+ com.pioneeralpha.amarischool.ui.cart.buy.InvoiceActivity
+com/pioneeralpha/amarischool/databinding/FragmentForgetPassNewPassInputBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentForgetPassNewPassInputBinding
+com/pioneeralpha/amarischool/databinding/FragmentLessonBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentLessonBinding
+com/pioneeralpha/amarischool/BuildConfig.java
+ com.pioneeralpha.amarischool.BuildConfig
+com/pioneeralpha/amarischool/ui/menu/webview/WebviewMenuitemActivity.java
+ com.pioneeralpha.amarischool.ui.menu.webview.WebviewMenuitemActivity
+com/pioneeralpha/amarischool/adapters/ForumAdapter.java
+ com.pioneeralpha.amarischool.adapters.ForumAdapter
+ com.pioneeralpha.amarischool.adapters.ForumAdapter$MyForumViewHolder
+ com.pioneeralpha.amarischool.adapters.ForumAdapter$MyForumViewHolder$1
+ com.pioneeralpha.amarischool.adapters.ForumAdapter$OnCardListener
+com/pioneeralpha/amarischool/ui/cart/buy/BuyAdapter.java
+ com.pioneeralpha.amarischool.ui.cart.buy.BuyAdapter
+ com.pioneeralpha.amarischool.ui.cart.buy.BuyAdapter$BuylistViewHolder
+com/pioneeralpha/amarischool/adapters/OurProductsRecyclerAdapter.java
+ com.pioneeralpha.amarischool.adapters.OurProductsRecyclerAdapter
+ com.pioneeralpha.amarischool.adapters.OurProductsRecyclerAdapter$ProductsViewHolder
+com/pioneeralpha/amarischool/ui/cart/invoice/InvoiceFragment.java
+ com.pioneeralpha.amarischool.ui.cart.invoice.InvoiceFragment
+com/pioneeralpha/amarischool/databinding/FragmentBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentBinding
+com/pioneeralpha/amarischool/databinding/FragmentContactBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentContactBinding
+com/pioneeralpha/amarischool/databinding/SubscriptionMoreButtonBinding.java
+ com.pioneeralpha.amarischool.databinding.SubscriptionMoreButtonBinding
+com/pioneeralpha/amarischool/ui/aboutCourse/AboutCourseFragment.java
+ com.pioneeralpha.amarischool.ui.aboutCourse.AboutCourseFragment
+com/pioneeralpha/amarischool/databinding/FragmentMessagesBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentMessagesBinding
+com/pioneeralpha/amarischool/databinding/ItemBestReviewBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemBestReviewBinding
+com/pioneeralpha/amarischool/models/SubscriptionModel.java
+ com.pioneeralpha.amarischool.models.SubscriptionModel
+com/pioneeralpha/amarischool/models/ForumModel.java
+ com.pioneeralpha.amarischool.models.ForumModel
+com/pioneeralpha/amarischool/databinding/FragmentForumListBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentForumListBinding
+com/pioneeralpha/amarischool/databinding/ActivityForgetPasswordBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityForgetPasswordBinding
+com/pioneeralpha/amarischool/databinding/ItemPointsUseBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemPointsUseBinding
+com/pioneeralpha/amarischool/databinding/SubscriptionHomeBinding.java
+ com.pioneeralpha.amarischool.databinding.SubscriptionHomeBinding
+com/pioneeralpha/amarischool/models/Product.java
+ com.pioneeralpha.amarischool.models.Product
+com/pioneeralpha/amarischool/databinding/FragmentMyPointsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentMyPointsBinding
+com/pioneeralpha/amarischool/ui/menu/subscription/SubscriptionFragment.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.SubscriptionFragment
+com/pioneeralpha/amarischool/databinding/ItemSingleMyCoursesLayoutBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSingleMyCoursesLayoutBinding
+com/pioneeralpha/amarischool/ui/home/model/MoreButtonItem.java
+ com.pioneeralpha.amarischool.ui.home.model.MoreButtonItem
+com/pioneeralpha/amarischool/ui/cart/buy/SslMainActivity.java
+ com.pioneeralpha.amarischool.ui.cart.buy.SslMainActivity
+com/pioneeralpha/amarischool/ui/explore/ExploreCatagoriesFragment.java
+ com.pioneeralpha.amarischool.ui.explore.ExploreCatagoriesFragment
+com/pioneeralpha/amarischool/MainActivity.java
+ com.pioneeralpha.amarischool.MainActivity
+com/pioneeralpha/amarischool/databinding/ActivityHomePageBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityHomePageBinding
+com/pioneeralpha/amarischool/databinding/WeekItemBinding.java
+ com.pioneeralpha.amarischool.databinding.WeekItemBinding
+com/pioneeralpha/amarischool/ui/settings/fragments/CalendarSyncSettingsFragment.java
+ com.pioneeralpha.amarischool.ui.settings.fragments.CalendarSyncSettingsFragment
+com/pioneeralpha/amarischool/databinding/FragmentNotesBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentNotesBinding
+com/pioneeralpha/amarischool/databinding/ActivityContactUsBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityContactUsBinding
+com/pioneeralpha/amarischool/databinding/ListThreadBinding.java
+ com.pioneeralpha.amarischool.databinding.ListThreadBinding
+com/pioneeralpha/amarischool/databinding/FragmentAllThreadsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentAllThreadsBinding
+com/pioneeralpha/amarischool/databinding/FragmentSubsPageOneBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentSubsPageOneBinding
+com/pioneeralpha/amarischool/models/WishListModel.java
+ com.pioneeralpha.amarischool.models.WishListModel
+com/pioneeralpha/amarischool/models/StudentMyCourseModel.java
+ com.pioneeralpha.amarischool.models.StudentMyCourseModel
+com/pioneeralpha/amarischool/databinding/ItemHomeSearchBoxBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeSearchBoxBinding
+com/pioneeralpha/amarischool/databinding/FragmentHomeBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentHomeBinding
+com/pioneeralpha/amarischool/databinding/FragmentPermissionSettingsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentPermissionSettingsBinding
+com/pioneeralpha/amarischool/databinding/ContentProfileBinding.java
+ com.pioneeralpha.amarischool.databinding.ContentProfileBinding
+com/pioneeralpha/amarischool/databinding/FragmentGradesBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentGradesBinding
+com/pioneeralpha/amarischool/databinding/FragmentWeek3Binding.java
+ com.pioneeralpha.amarischool.databinding.FragmentWeek3Binding
+com/pioneeralpha/amarischool/ui/home/model/SliderItem.java
+ com.pioneeralpha.amarischool.ui.home.model.SliderItem
+com/pioneeralpha/amarischool/ui/forget_password/ForgetPassVarificationFragment.java
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassVarificationFragment
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassVarificationFragment$1
+com/pioneeralpha/amarischool/adapters/CartAdapter.java
+ com.pioneeralpha.amarischool.adapters.CartAdapter
+ com.pioneeralpha.amarischool.adapters.CartAdapter$CartViewHolder
+ com.pioneeralpha.amarischool.adapters.CartAdapter$CartViewHolder$1
+ com.pioneeralpha.amarischool.adapters.CartAdapter$CartViewHolder$2
+ com.pioneeralpha.amarischool.adapters.CartAdapter$OnCardListener
+com/pioneeralpha/amarischool/databinding/ItemHomeContentGridBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeContentGridBinding
+com/pioneeralpha/amarischool/databinding/ItemQuizeBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemQuizeBinding
+com/pioneeralpha/amarischool/databinding/MenuSwitchBlackBinding.java
+ com.pioneeralpha.amarischool.databinding.MenuSwitchBlackBinding
+com/pioneeralpha/amarischool/databinding/FragmentWeek1Binding.java
+ com.pioneeralpha.amarischool.databinding.FragmentWeek1Binding
+com/pioneeralpha/amarischool/databinding/FragmentWeek2Binding.java
+ com.pioneeralpha.amarischool.databinding.FragmentWeek2Binding
+com/pioneeralpha/amarischool/databinding/FragmentAboutCourseBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentAboutCourseBinding
+com/pioneeralpha/amarischool/databinding/ActivityWebviewMenuitemBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityWebviewMenuitemBinding
+com/pioneeralpha/amarischool/ui/home/HomeFragment.java
+ com.pioneeralpha.amarischool.ui.home.HomeFragment
+ com.pioneeralpha.amarischool.ui.home.HomeFragment$1
+ com.pioneeralpha.amarischool.ui.home.HomeFragment$HomeFragmentListener
+com/pioneeralpha/amarischool/databinding/FragmentExploreBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentExploreBinding
+com/pioneeralpha/amarischool/ui/dashboard/fragments/AllThreadsFragment.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.AllThreadsFragment
+com/pioneeralpha/amarischool/databinding/ActivityLoginBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityLoginBinding
+com/amplifyframework/datastore/generated/model/User.java
+ com.amplifyframework.datastore.generated.model.User
+ com.amplifyframework.datastore.generated.model.User$1
+ com.amplifyframework.datastore.generated.model.User$BuildStep
+ com.amplifyframework.datastore.generated.model.User$Builder
+ com.amplifyframework.datastore.generated.model.User$CopyOfBuilder
+com/pioneeralpha/amarischool/databinding/FragmentForgetPassEmailInputBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentForgetPassEmailInputBinding
+com/pioneeralpha/amarischool/ui/home/HomePageActivity.java
+ com.pioneeralpha.amarischool.ui.home.HomePageActivity
+com/pioneeralpha/amarischool/models/ThreaModel.java
+ com.pioneeralpha.amarischool.models.ThreaModel
+com/pioneeralpha/amarischool/databinding/FragmentGeneralSettingsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentGeneralSettingsBinding
+com/pioneeralpha/amarischool/databinding/ActivitySettingsBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivitySettingsBinding
+com/pioneeralpha/amarischool/databinding/ItemExploreBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemExploreBinding
+com/pioneeralpha/amarischool/ui/MainActivity.java
+ com.pioneeralpha.amarischool.ui.MainActivity
+com/pioneeralpha/amarischool/ui/menu/subscription/details/subscription/SubsPageThirdFragment.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.subscription.SubsPageThirdFragment
+com/pioneeralpha/amarischool/adapters/AdapterImageSlider.java
+ com.pioneeralpha.amarischool.adapters.AdapterImageSlider
+ com.pioneeralpha.amarischool.adapters.AdapterImageSlider$OnItemClickListener
+com/pioneeralpha/amarischool/databinding/ItemExploreHeaderBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemExploreHeaderBinding
+com/pioneeralpha/amarischool/ui/settings/fragments/ClubPartnershipSettingsFragment.java
+ com.pioneeralpha.amarischool.ui.settings.fragments.ClubPartnershipSettingsFragment
+com/pioneeralpha/amarischool/databinding/TestBinding.java
+ com.pioneeralpha.amarischool.databinding.TestBinding
+com/pioneeralpha/amarischool/adapters/WishListAdapter.java
+ com.pioneeralpha.amarischool.adapters.WishListAdapter
+ com.pioneeralpha.amarischool.adapters.WishListAdapter$OnWishListCardListener
+ com.pioneeralpha.amarischool.adapters.WishListAdapter$WishlistViewHolder
+com/pioneeralpha/amarischool/databinding/FragmentSubscriptionBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentSubscriptionBinding
+com/pioneeralpha/amarischool/databinding/MycourseInfoHeaderBinding.java
+ com.pioneeralpha.amarischool.databinding.MycourseInfoHeaderBinding
+com/pioneeralpha/amarischool/ui/dashboard/fragments/GradesFragment.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.GradesFragment
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.GradesFragment$1
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.GradesFragment$2
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.GradesFragment$3
+com/pioneeralpha/amarischool/models/InvoiceModel.java
+ com.pioneeralpha.amarischool.models.InvoiceModel
+com/pioneeralpha/amarischool/databinding/MycourseappbarBinding.java
+ com.pioneeralpha.amarischool.databinding.MycourseappbarBinding
+com/pioneeralpha/amarischool/databinding/HeaderBinding.java
+ com.pioneeralpha.amarischool.databinding.HeaderBinding
+com/pioneeralpha/amarischool/ui/dashboard/fragments/ForumList.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.ForumList
+com/pioneeralpha/amarischool/databinding/ActivitySplashBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivitySplashBinding
+com/pioneeralpha/amarischool/databinding/FragmentCalendarSyncSettingsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentCalendarSyncSettingsBinding
+com/pioneeralpha/amarischool/ui/dashboard/fragments/MessagesFragment.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.MessagesFragment
+com/pioneeralpha/amarischool/databinding/ItemHomeBetaVersionBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeBetaVersionBinding
+com/pioneeralpha/amarischool/databinding/CourseinfochipsBinding.java
+ com.pioneeralpha.amarischool.databinding.CourseinfochipsBinding
+com/pioneeralpha/amarischool/DataBindingTriggerClass.java
+ com.pioneeralpha.amarischool.DataBindingTriggerClass
+com/pioneeralpha/amarischool/databinding/CourseInfoVideoBinding.java
+ com.pioneeralpha.amarischool.databinding.CourseInfoVideoBinding
+com/pioneeralpha/amarischool/ui/settings/fragments/PaymentSettingsFragment.java
+ com.pioneeralpha.amarischool.ui.settings.fragments.PaymentSettingsFragment
+com/pioneeralpha/amarischool/databinding/ItemBuyCardDetailsBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemBuyCardDetailsBinding
+com/pioneeralpha/amarischool/ui/explore/ExploreFragment.java
+ com.pioneeralpha.amarischool.ui.explore.ExploreFragment
+com/pioneeralpha/amarischool/databinding/ItemSubscribeUpdateCourseBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSubscribeUpdateCourseBinding
+com/pioneeralpha/amarischool/ui/settings/fragments/NotificationSettingsFragment.java
+ com.pioneeralpha.amarischool.ui.settings.fragments.NotificationSettingsFragment
+com/pioneeralpha/amarischool/ui/menu/subscription/details/subscription/SubsPageOneFragment.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.subscription.SubsPageOneFragment
+com/pioneeralpha/amarischool/databinding/ItemHomeTitleImageBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeTitleImageBinding
+com/pioneeralpha/amarischool/ui/settings/fragments/GeneralSettingsFragment.java
+ com.pioneeralpha.amarischool.ui.settings.fragments.GeneralSettingsFragment
+com/pioneeralpha/amarischool/databinding/ItemSingleCartLayoutBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemSingleCartLayoutBinding
+com/pioneeralpha/amarischool/ui/cart/invoice/InvoiceAdapter.java
+ com.pioneeralpha.amarischool.ui.cart.invoice.InvoiceAdapter
+ com.pioneeralpha.amarischool.ui.cart.invoice.InvoiceAdapter$InvoicelistViewHolder
+com/pioneeralpha/amarischool/models/BuyModel.java
+ com.pioneeralpha.amarischool.models.BuyModel
+com/pioneeralpha/amarischool/databinding/ItemHomeContentListBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeContentListBinding
+com/pioneeralpha/amarischool/databinding/FragmentExploreCatagoriesBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentExploreCatagoriesBinding
+com/pioneeralpha/amarischool/databinding/FragmentCartBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentCartBinding
+com/amplifyframework/datastore/generated/model/AmplifyModelProvider.java
+ com.amplifyframework.datastore.generated.model.AmplifyModelProvider
+com/pioneeralpha/amarischool/AmplifyApp.java
+ com.pioneeralpha.amarischool.AmplifyApp
+com/pioneeralpha/amarischool/ui/menu/subscription/details/subscription/SubsPageTweFragment.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.details.subscription.SubsPageTweFragment
+com/pioneeralpha/amarischool/databinding/ContentContactUsBinding.java
+ com.pioneeralpha.amarischool.databinding.ContentContactUsBinding
+com/pioneeralpha/amarischool/databinding/ItemHomeTitleTextBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeTitleTextBinding
+com/pioneeralpha/amarischool/ui/home/model/CourseItem.java
+ com.pioneeralpha.amarischool.ui.home.model.CourseItem
+com/pioneeralpha/amarischool/ui/menu/subscription/SubscriptionDetailsFragment.java
+ com.pioneeralpha.amarischool.ui.menu.subscription.SubscriptionDetailsFragment
+ com.pioneeralpha.amarischool.ui.menu.subscription.SubscriptionDetailsFragment$1
+com/pioneeralpha/amarischool/databinding/ItemHomeCourseMoreButtonBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeCourseMoreButtonBinding
+com/pioneeralpha/amarischool/adapters/HomeRecyclerAdapter.java
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$1
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$2
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$3
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$4
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$ContentViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$CourseBugButtonViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$CourseCategoryViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$CourseMoroButtonViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$OnItemClickListener
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$SUBSCRIPTIONButtonViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$SearchBoxViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$SubscriptionMoreButtonViewHolder
+ com.pioneeralpha.amarischool.adapters.HomeRecyclerAdapter$TitleImageViewHolder
+com/pioneeralpha/amarischool/databinding/FragmentForumsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentForumsBinding
+com/pioneeralpha/amarischool/ui/cart/CartFragment.java
+ com.pioneeralpha.amarischool.ui.cart.CartFragment
+ com.pioneeralpha.amarischool.ui.cart.CartFragment$1
+com/pioneeralpha/amarischool/ui/dashboard/fragments/ForumsFragment.java
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.ForumsFragment
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.ForumsFragment$1
+ com.pioneeralpha.amarischool.ui.dashboard.fragments.ForumsFragment$MyAdapter
+com/pioneeralpha/amarischool/ui/settings/fragments/PermissionSettingsFragment.java
+ com.pioneeralpha.amarischool.ui.settings.fragments.PermissionSettingsFragment
+com/pioneeralpha/amarischool/adapters/MyCoursesAdapter.java
+ com.pioneeralpha.amarischool.adapters.MyCoursesAdapter
+ com.pioneeralpha.amarischool.adapters.MyCoursesAdapter$MyCoursesViewHolder
+ com.pioneeralpha.amarischool.adapters.MyCoursesAdapter$MyCoursesViewHolder$1
+ com.pioneeralpha.amarischool.adapters.MyCoursesAdapter$MyCoursesViewHolder$2
+ com.pioneeralpha.amarischool.adapters.MyCoursesAdapter$OnCardListener
+com/pioneeralpha/amarischool/databinding/ItemQuestionBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemQuestionBinding
+com/pioneeralpha/amarischool/databinding/ActivityInstructorBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityInstructorBinding
+com/pioneeralpha/amarischool/databinding/FragmentForgetPassVarificationBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentForgetPassVarificationBinding
+com/pioneeralpha/amarischool/databinding/ActivitySslMainBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivitySslMainBinding
+com/pioneeralpha/amarischool/databinding/ItemExploreTitleBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemExploreTitleBinding
+com/pioneeralpha/amarischool/ui/settings/SettingsActivity.java
+ com.pioneeralpha.amarischool.ui.settings.SettingsActivity
+com/pioneeralpha/amarischool/ui/cart/buy/BuyFragment.java
+ com.pioneeralpha.amarischool.ui.cart.buy.BuyFragment
+ com.pioneeralpha.amarischool.ui.cart.buy.BuyFragment$1
+com/pioneeralpha/amarischool/databinding/FragmentSubscriptionDetailsBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentSubscriptionDetailsBinding
+com/pioneeralpha/amarischool/ui/forget_password/PasswordUpdatedActivity.java
+ com.pioneeralpha.amarischool.ui.forget_password.PasswordUpdatedActivity
+com/pioneeralpha/amarischool/databinding/ToolbarPrimaryBinding.java
+ com.pioneeralpha.amarischool.databinding.ToolbarPrimaryBinding
+com/pioneeralpha/amarischool/models/Course.java
+ com.pioneeralpha.amarischool.models.Course
+com/pioneeralpha/amarischool/databinding/ActivityEnterpriseBinding.java
+ com.pioneeralpha.amarischool.databinding.ActivityEnterpriseBinding
+com/pioneeralpha/amarischool/databinding/AppbarLayoutBinding.java
+ com.pioneeralpha.amarischool.databinding.AppbarLayoutBinding
+com/pioneeralpha/amarischool/databinding/FragmentBuyBinding.java
+ com.pioneeralpha.amarischool.databinding.FragmentBuyBinding
+com/pioneeralpha/amarischool/databinding/ItemHomeContentCourseHolderBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeContentCourseHolderBinding
+com/pioneeralpha/amarischool/ui/forget_password/ForgetPassNewPassInputFragment.java
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassNewPassInputFragment
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassNewPassInputFragment$1
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassNewPassInputFragment$2
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassNewPassInputFragment$2$1
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassNewPassInputFragment$3
+com/pioneeralpha/amarischool/databinding/NoCourseAvailableBinding.java
+ com.pioneeralpha.amarischool.databinding.NoCourseAvailableBinding
+com/pioneeralpha/amarischool/adapters/CoursesRecyclerAdapter.java
+ com.pioneeralpha.amarischool.adapters.CoursesRecyclerAdapter
+ com.pioneeralpha.amarischool.adapters.CoursesRecyclerAdapter$CoursesViewHolder
+ com.pioneeralpha.amarischool.adapters.CoursesRecyclerAdapter$OnItemClickListener
+com/pioneeralpha/amarischool/databinding/ItemHomeContentCoursesGridBinding.java
+ com.pioneeralpha.amarischool.databinding.ItemHomeContentCoursesGridBinding
+com/pioneeralpha/amarischool/databinding/InvoicecustomviewBinding.java
+ com.pioneeralpha.amarischool.databinding.InvoicecustomviewBinding
+com/pioneeralpha/amarischool/ui/forget_password/ForgetPassEmailInputFragment.java
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassEmailInputFragment
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassEmailInputFragment$1
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassEmailInputFragment$2
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassEmailInputFragment$2$1
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPassEmailInputFragment$3
+com/pioneeralpha/amarischool/ui/login/LoginActivity.java
+ com.pioneeralpha.amarischool.ui.login.LoginActivity
+ com.pioneeralpha.amarischool.ui.login.LoginActivity$1
+ com.pioneeralpha.amarischool.ui.login.LoginActivity$2
+ com.pioneeralpha.amarischool.ui.login.LoginActivity$3
+ com.pioneeralpha.amarischool.ui.login.LoginActivity$4
+ com.pioneeralpha.amarischool.ui.login.LoginActivity$5
+com/pioneeralpha/amarischool/ui/menu/MenuFragment.java
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$1
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$2
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$3
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$4
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$5
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$6
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$7
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$8
+ com.pioneeralpha.amarischool.ui.menu.MenuFragment$9
+com/pioneeralpha/amarischool/ui/forget_password/ForgetPasswordFragmentPageAdapter.java
+ com.pioneeralpha.amarischool.ui.forget_password.ForgetPasswordFragmentPageAdapter
+com/pioneeralpha/amarischool/SplashActivity.java
+ com.pioneeralpha.amarischool.SplashActivity
+ com.pioneeralpha.amarischool.SplashActivity$1
+com/pioneeralpha/amarischool/ui/SignupActivity.java
+ com.pioneeralpha.amarischool.ui.SignupActivity
+ com.pioneeralpha.amarischool.ui.SignupActivity$1
+com/pioneeralpha/amarischool/ui/EmailConfirmationActivity.java
+ com.pioneeralpha.amarischool.ui.EmailConfirmationActivity
+ com.pioneeralpha.amarischool.ui.EmailConfirmationActivity$1

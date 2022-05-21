@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Amar iSchool</string>
+    <string name="facebook_app_id">1182833042545289</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">9324a4495956b933ceba754224747c48</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_my_courses">My Courses</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_menu">Menu</string>
+
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_change_language">Change language</string>
+    <string name="hint_find_your_course">Find your course</string>
+    <string name="home_welcome">Welcome!</string>
+    <string name="explore_topics_and_skills">Explore Topics and Skills</string>
+    <string name="description_category_image">category image</string>
+
+    <string name="placeholder_ricky_pointing">Ricky Pointing</string>
+
+    <string name="login_txt">Explore new courses... \n Hurry up!!</string>
+    <string name="forgotpass">Forget Password?</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="or">or</string>
+    <string name="privacy_policy">By signing up, you agree to our.</string>
+    <string name="privacy_policy1"> Privacy Policy.</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="placeholder_category">Computer Science</string>
+    <string name="placeholder_popular_courses">Popular Courses</string>
+
+    <string name="title_activity_contact_us">ContactUsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_google_calender">Google calender</string>
+    <string name="btn_apple_calender">Apple calender</string>
+    <string name="btn_other_calender">Other calender</string>
+    <string name="dummy_text">Im a dummy text. will probably get killed by the developer lol. These are my last words</string>
+
+    <string name="calender_add_to_my_calender">Add to my calender</string>
+    <string name="calender_subtitle">Automatically sync all the deadlines and other related items from all active courses to your calendar.</string>
+    <string name="btn_post">Post</string>
+    <string name="contact_reach_us_through">Reach Us Through</string>
+    <string name="contact_dummy_address">House 52/A ,Katabon, Elephant road Food Court, Dhaka-1205, Bangladesh.</string>
+    <string name="contact_social_networks">Social Networks</string>
+    <string name="contact_hint_priority">Priority</string>
+    <string name="contact_hint_message">Enter the message</string>
+    <string name="contact_hint_email">Enter your email</string>
+    <string name="contact_hint_subject">Enter the subject</string>
+    <string name="contact_post_a_ticket">Post a Ticket</string>
+    <string name="contact_title">After online learning changed his life, Eren partnered with co-founders Oktay Caglar and Gagan Biyani toward a common goal: to make quality education more accessible and improve lives through learning.</string>
+    <string name="contact_stay_connected">Stay Connected</string>
+    <string name="contact_title2">WE’D LOVE TO HEAR FROM YOU</string>
+    <string name="switch_text_off">ENG</string>
+    <string name="switch_text_on">বাং</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="signup_already_have_account">Already have an account?</string>
+    <string name="profile_linked_devices">Linked Devices</string>
+    <string name="button_save_changes">SAVE CHANGES</string>
+    <string name="hint_enter_your_phone">Enter your phone</string>
+    <string name="hint_enter_your_password">Enter your password</string>
+    <string name="hint_enter_your_email">Enter your email</string>
+    <string name="hint_enter_your_name">Enter your name</string>
+    <string name="fab_upload_photo">image upload</string>
+    <string name="profile_upload_resume">Upload Resume</string>
+    <string name="button_upload">UPLOAD</string>
+    <string name="profile_skills">Skills</string>
+    <string name="profile_skills_category">Select a category</string>
+    <string name="pioneer_slogan">Software Company in Dhaka</string>
+    <string name="pioneer_alpha">Pioneer Alpha</string>
+    <string name="button_download">DOWNLOAD</string>
+    <string name="about">About</string>
+    <string name="button_visit">VISIT</string>
+
+    <string name="enterprise_name">About %s</string>
+
+    <string name="enterprise_name_1">Walton</string>
+    <string name="enterprise_preview_1">https://source.unsplash.com/random/200x200?sig=%d</string>
+    <string name="enterprise_description_1">Walton is a Bangladeshi conglomerate based in
+        Kaliakair, Gazipur, Bangladesh. It comprises numerous subsidiaries
+        and affiliated businesses, most of them united under the Walton brand.</string>
+    <string name="dummy_student_count">468 students takes</string>
+    <string name="dummy_duration">Duration 5 months</string>
+    <string name="dummy_title">Introduction to data structure</string>
+    <string name="dummy_cost">৳4500</string>
+    <string name="dummy_rating">4.5</string>
+    <string name="cd_wishlist">wishlist button</string>
+    <string name="cd_course_preview_image">course preview image</string>
+
+    <string name="course_duration">Duration %s</string>
+    <string name="course_students_enrolled">%d students have enrolled</string>
+    <string name="graphic_design_enrollment_test">Graphic Design Enrollment Test</string>
+    <string name="quiz_rules">Quiz Rules</string>
+    <string name="quiz_rules_des">Each part have 10 questions of 10 marks each. You have 50 seconds for each question.You wil find 4 option for each question and you can choose only one option</string>
+    <string name="time_limit">Time Limit: 00:08:31</string>
+    <string name="question">Question</string>
+    <string name="question_title">Choose the right word in the blank</string>
+    <string name="comilla">comilla</string>
+    <string name="which_city_do_you_live">which city do you live</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="cancel">Cancel</string>
+    <string name="blank_1">Blank (1)</string>
+    <string name="blank_2">Blank(2)</string>
+    <string name="lessontext">In addition to being one of the leading millennial influencers in America, Chelsea is a marketing and brand strategist; sought-after keynote speaker; Forbes contributor; and the chat host of #MillennialTalk, whose influence s marketing strategies of not only small businesses, but also America, Chelsea is a marketing and brand strategist; sought-after keynote speaker; Forbes contributor; and the chat host</string>
+    <string name="experienceText">In addition to being one of the leading millennial influencers in America, Chelsea is a marketing and brand strategist; sought-after keynote speaker; Forbes contributor; and the chat host of #MillennialTalk, whose influence s marketing strategies of not only small businesses, but also</string>
+    <string name="skills">Skills</string>
+    <string name="text_tutor">In addition to being one of the leading millennial influencers in America, Chelsea is a marketing and brand strategist; sought-after keynote speaker. Forbes contributor; and the chat host of MillennialTalk, whose influence s marketing strategies of not only small businesses, but also</string>
+    <string name="text">You have not added any notes yet. Notes can be created from video pages.</string>
+    <string name="fourm_head">Discussion Forums</string>
+    <string name="forum_subhead">Get help and discuss material with the community.</string>
+    <string name="threadhead">Try/except - How to use it as Dsigned</string>
+
+    <string name="threaddesc">There appears to be a misunderstanding of what the try/except construct is all about and how it was designed to be used.Dr. Chuck explains how to use try/except in lecture video Worked Example 3.2.
+try/except should be used to handlewhat\'s called an exception.
+An exception is an error detected during execution of a program although the program might be syntactically correct. Most exceptions will cause the program to come to an unintended stop and display a Traceback error message such as ValueError, ZeroDivisionError, TypeError, etc.
+ If you write a program where you prompt the user to enter a number and the user enters a string where you would expect a number.</string>
+    <string name="description">Description</string>
+    <string name="subdescription">Welcome to the course discussion forums! Ask questions, debate ideas, and find classmates who share your goals. Browse popular threads below or other forums  in the sidebar.</string>
+</resources>

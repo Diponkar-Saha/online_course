@@ -1,0 +1,84 @@
+<resources>
+    <!--text dimensions for all layouts-->
+    <dimen name="card_text_title">18sp</dimen>
+    <dimen name="card_text_sub_title">15sp</dimen>
+    <dimen name="card_text_content">13sp</dimen>
+    <dimen name="card_text_sub_content">13sp</dimen>
+    <dimen name="page_title">23sp</dimen>
+    <dimen name="page_title_2">18sp</dimen>
+    <dimen name="page_title_3">15sp</dimen>
+    <dimen name="page_content">15sp</dimen>
+    <dimen name="page_content_2">13sp</dimen>
+    <!--for small font sizes-->
+    <dimen name="button_text_2">12sp</dimen>
+    <!--window margins for all layouts-->
+    <dimen name="window_margin_left_right">16dp</dimen>
+
+    <dimen name="text_input_font_size">14sp</dimen>
+    <dimen name="text_input_layout_radius">10dp</dimen>
+    <dimen name="text_field_corner_radius">10dp</dimen>
+
+    <dimen name="text_input_box_width">1.5dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="card_layout_margin">5dp</dimen>
+    <dimen name="card_image_height">35dp</dimen>
+    <dimen name="card_image_width">35dp</dimen>
+    <dimen name="card_image_margin_top">20dp</dimen>
+    <dimen name="card_linear_layout_padding">24dp</dimen>
+    <dimen name="card_linear_layout_height">150dp</dimen>
+    <dimen name="card_linear_layout_width">120dp</dimen>
+    <dimen name="navigation_bar_height">48dp</dimen>
+    <dimen name="social_media_icon_size">28dp</dimen>
+    <dimen name="app_bar_height">48dp</dimen>
+
+    <dimen name="text_size_subtitle">18sp</dimen>
+    <dimen name="text_size_title">23sp</dimen>
+
+    <dimen name="text_size_subtitle_medium">16sp</dimen>
+    <dimen name="text_input_corner_radius">10dp</dimen>
+    <dimen name="button_corner_radius">10dp</dimen>
+
+    <dimen name="list_item_spacing">15dp</dimen>
+    <dimen name="list_sub_item_spacing">10dp</dimen>
+    <dimen name="settings_item_spacing">8dp</dimen>
+    <dimen name="settings_section_spacing">20dp</dimen>
+    <dimen name="contact_item_spacing">10dp</dimen>
+    <dimen name="contact_item_margin_top">10dp</dimen>
+    <dimen name="contact_item_margin_top_first_child">15dp</dimen>
+
+    <dimen name="border_padding">10dp</dimen>
+    <dimen name="item_padding">10dp</dimen>
+
+    <dimen name="logo_top_margin">76dp</dimen>
+    <dimen name="text_margin">40dp</dimen>
+    <dimen name="login_btn_width">144dp</dimen>
+    <dimen name="login_btn_height">55dp</dimen>
+    <dimen name="icon_height_width">35dp</dimen>
+    <dimen name="card_radius_default">10dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="btn_settings_calender_width">180dp</dimen>
+    <dimen name="btn_padding">15dp</dimen>
+    <!--Custom switch for changing language -->
+    <dimen name="switch_thumb_width">40dp</dimen>
+    <dimen name="switch_thumb_height">35dp</dimen>
+    <dimen name="switch_stroke">3dp</dimen>
+    <dimen name="switch_thumb_radius">24dp</dimen>
+    <dimen name="contact_map_height">230dp</dimen>
+    <dimen name="profile_picture_size">100dp</dimen>
+    <dimen name="button_padding">15dp</dimen>
+    <dimen name="icon_dp_48">48dp</dimen>
+    <dimen name="card_radius_12dp">12dp</dimen>
+    <dimen name="card_radius_8dp">8dp</dimen>
+    <dimen name="button_size_small">40dp</dimen>
+    <dimen name="card_elevation_3dp">3dp</dimen>
+    <dimen name="icon_dp_32">32dp</dimen>
+    <dimen name="card_item_padding">2dp</dimen>
+    <dimen name="icon_dp_24">24dp</dimen>
+    <dimen name="card_course">30dp</dimen>
+    <dimen name="course_card_preview_small">70dp</dimen>
+    <dimen name="course_card_preview_height">150dp</dimen>
+    <dimen name="course_card_container_width">250dp</dimen>
+
+</resources>

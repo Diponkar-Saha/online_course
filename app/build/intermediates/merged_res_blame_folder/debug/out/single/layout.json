@@ -1,0 +1,478 @@
+[
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_content_courses_grid.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_courses_grid.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_contact.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forget_pass_new_pass_input.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forget_pass_new_pass_input.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_invoice.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_invoice.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_slider_layout.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_slider_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_course_info.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_course_info.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_buy_card_details.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_buy_card_details.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_buy.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_buy.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_content_course_holder.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_course_holder.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_experience.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_experience.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\child.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_content_courses_list.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_courses_list.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\courseinfochips.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\courseinfochips.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_forum.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\list_forum.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_cart.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dashboard.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_enterprise.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_enterprise.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_coursesyllabus.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_coursesyllabus.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\wishlist_layout.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\wishlist_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_payment_settings.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_payment_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_overview.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_best_review.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_best_review.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_contact_us.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\content_contact_us.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_our_products.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_our_products.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_password_updated.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_password_updated.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_ssl_main.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_ssl_main.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_buy_profile.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_buy_profile.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_enrollment.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_enrollment.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_thread.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\list_thread.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_courses.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_my_courses.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_subs_page_one.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subs_page_one.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_explore.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_explore.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\subscription_home.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\subscription_home.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_new_thread.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\list_new_thread.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_course_more_button.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_course_more_button.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_spinner.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notification_settings.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_notification_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\no_course_available.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\no_course_available.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_profile.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\content_profile.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_subscribe_update_course.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_subscribe_update_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contact_us.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_week2.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_week2.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_subs_page_third.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subs_page_third.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_my_points.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_my_points.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_tutor.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_tutor.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_week_video.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_week_video.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_more_course.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_more_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_explore_catagories.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_explore_catagories.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_lesson.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_lesson.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\week_item.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\week_item.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_content_list.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_list.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_search_box.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_search_box.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_permission_settings.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_permission_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_subdcription.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_subdcription.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_grades.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_grades.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_club_partnership_settings.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_club_partnership_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forum_list.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forum_list.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_signup.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_certificates.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_certificates.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_invoice.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_invoice.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home_page.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_beta_version.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_beta_version.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_subscription_details.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subscription_details.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_email_confirmation.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_email_confirmation.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_webview_menuitem.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_webview_menuitem.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_week1.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_week1.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_explore.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_subscription_all_course.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_subscription_all_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mycourse_info_header.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\mycourse_info_header.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_title_image.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_title_image.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mycourseappbar.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\mycourseappbar.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notes.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_notes.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_explore_header.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_explore_header.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_subscription.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subscription.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\toolbar_primary.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\toolbar_primary.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calendar_sync_settings.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_calendar_sync_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_general_settings.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_general_settings.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_single_cart_layout.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_single_cart_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forums.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forums.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\invoicecustomview.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\invoicecustomview.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_quize.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_quize.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_invoice.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_invoice.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_about_course.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_about_course.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_subs_page_twe.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_subs_page_twe.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\menu_social_network.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\menu_social_network.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_all_threads.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_all_threads.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_question.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_question.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\menu_switch_black.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\menu_switch_black.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\subscription_more_button.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\subscription_more_button.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_points_use.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_points_use.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\mycoursedetails.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\mycoursedetails.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_single_wishlist_layout.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_single_wishlist_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\test.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\appbar_layout.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\appbar_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_explore_title.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_explore_title.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_instructor.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_instructor.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_instructor.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_instructor.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_content_grid.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_content_grid.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forget_pass_email_input.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forget_pass_email_input.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_question_multiple.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_question_multiple.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_home_title_text.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_home_title_text.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_menu.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_forget_pass_varification.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_forget_pass_varification.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_our_products.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_our_products.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_forget_password.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\tab_title.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\tab_title.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_week3.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_week3.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_relatedcourse.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_relatedcourse.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\course_info_video.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\course_info_video.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_single_my_courses_layout.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\item_single_my_courses_layout.xml"
+    },
+    {
+        "merged": "G:\\amar_ischool_android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_messages.xml",
+        "source": "G:\\amar_ischool_android\\app\\src\\main\\res\\layout\\fragment_messages.xml"
+    }
+]

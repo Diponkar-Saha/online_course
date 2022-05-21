@@ -1,0 +1,99 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.secrets_gradle_plugin' version '0.5'
+
+}
+
+android {
+    compileSdkVersion 31
+
+
+    defaultConfig {
+        applicationId "com.pioneeralpha.amarischool"
+        minSdkVersion 30
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildFeatures {
+        dataBinding true
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.3.0'
+    implementation 'com.google.android.material:material:1.3.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.navigation:navigation-fragment:2.3.5'
+    implementation 'androidx.navigation:navigation-ui:2.3.5'
+
+    //todo: remove the legacy if possible
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'com.google.android:flexbox:2.0.1'
+
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.3.5'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.3.5'
+
+    //Google Play Services for Maps
+    implementation 'com.google.android.gms:play-services-maps:17.0.1'
+    // Google play services for location information
+    implementation 'com.google.android.gms:play-services-location:18.0.0'
+
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'org.jetbrains:annotations:15.0'
+
+    testImplementation 'junit:junit:4.+'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    // for image url parsing
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    //viewpager 2
+    implementation "androidx.viewpager2:viewpager2:1.0.0"
+    //rounded imageview
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    implementation 'com.ms-square:expandableTextView:0.1.4'
+
+    implementation 'com.github.worker8:radiogroupplus:1.0.1'
+
+    implementation 'com.tbuonomo.andrui:viewpagerdotsindicator:4.1.2'
+
+    //required for ssl commerz
+    implementation 'androidx.localbroadcastmanager:localbroadcastmanager:1.0.0'
+    implementation (name: 'sslCommerzSdk', ext:'aar')
+    implementation 'com.google.code.gson:gson:2.8.6'
+
+    implementation 'com.amplifyframework:aws-api:1.32.1'
+    implementation 'com.amplifyframework:aws-datastore:1.32.1'
+    implementation 'com.amplifyframework:aws-auth-cognito:1.6.8'
+
+    implementation 'com.facebook.android:facebook-login:latest.release'
+    implementation 'com.google.android.gms:play-services-auth:20.1.0'
+
+
+}

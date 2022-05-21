@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/light_ash"
+        app:cardCornerRadius="@dimen/card_radius_default"
+        android:layout_marginTop="@dimen/list_sub_item_spacing"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="@dimen/item_padding"
+            android:layout_marginTop="@dimen/item_padding"
+            android:layout_marginEnd="@dimen/item_padding"
+            android:layout_marginBottom="@dimen/item_padding">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardView5"
+                android:layout_width="@dimen/course_card_preview_small"
+                android:layout_height="@dimen/course_card_preview_small"
+                app:cardCornerRadius="@dimen/card_radius_8dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/course_preview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/placeholder_loading" />
+
+
+            </androidx.cardview.widget.CardView>
+
+
+            <TextView
+                android:id="@+id/students_enrolled"
+                style="@style/TextStyle.CardContent"
+                android:layout_width="0dp"
+                android:textStyle="bold"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/card_item_padding"
+                android:textColor="@color/dark_ash"
+                android:text="468 students takes"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@id/courseRatingBar"
+                app:layout_constraintTop_toBottomOf="@+id/rating_text" />
+
+            <RatingBar
+                android:id="@+id/courseRatingBar"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:isIndicator="false"
+                android:numStars="5"
+                android:progressTint="@color/yellow"
+                android:rating="3.64"
+                android:secondaryProgressTint="@color/yellow"
+                android:stepSize="0.5"
+                app:layout_constraintStart_toStartOf="@id/course_title"
+                app:layout_constraintTop_toBottomOf="@id/course_title"
+                tools:layout_editor_absoluteX="180dp"
+                tools:layout_editor_absoluteY="56dp" />
+
+            <TextView
+                android:id="@+id/duration"
+                style="@style/TextStyle.CardContent"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Duration 5 months"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="@id/students_enrolled"
+                app:layout_constraintTop_toBottomOf="@id/students_enrolled"
+                tools:layout_editor_absoluteX="180dp"
+                tools:layout_editor_absoluteY="94dp" />
+
+            <TextView
+                android:id="@+id/course_title"
+                style="@style/TextStyle.CardSubTitle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/item_padding"
+                android:paddingBottom="@dimen/card_item_padding"
+                android:text="Introduction to data structure "
+                android:textColor="@color/black"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@+id/cardView5"
+                app:layout_constraintTop_toTopOf="@+id/cardView5" />
+
+            <ImageView
+                android:id="@+id/heart_button"
+                android:layout_width="@dimen/icon_dp_24"
+                android:layout_height="@dimen/icon_dp_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/cart_button"
+                app:layout_constraintStart_toEndOf="@+id/price"
+                app:srcCompat="@drawable/ic_heart_outlined"
+                app:tint="@color/red" />
+
+            <ImageView
+                android:id="@+id/cart_button"
+                android:layout_width="@dimen/icon_dp_24"
+                android:layout_height="@dimen/icon_dp_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:srcCompat="@drawable/ic_cart_icon"
+                app:tint="@color/red" />
+
+
+            <TextView
+                android:id="@+id/price"
+                style="@style/TextStyle.CardSubTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="৳ 4500"
+                android:paddingTop="@dimen/card_item_padding"
+                app:layout_constraintStart_toStartOf="@+id/duration"
+                app:layout_constraintTop_toBottomOf="@+id/duration"
+                android:textColor="@color/purple" />
+
+            <TextView
+                android:id="@+id/rating_text"
+                style="@style/TextStyle.CardContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="5dp"
+                android:text="4.5"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/courseRatingBar"
+                app:layout_constraintStart_toEndOf="@+id/courseRatingBar"
+                app:layout_constraintTop_toTopOf="@+id/courseRatingBar" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

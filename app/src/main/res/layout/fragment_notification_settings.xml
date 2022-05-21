@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.settings.fragments.NotificationSettingsFragment">
+
+   <androidx.constraintlayout.widget.ConstraintLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <TextView
+           android:id="@+id/text"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="20dp"
+           android:layout_marginEnd="20dp"
+           android:fontFamily="@font/roboto"
+           android:text="I want to receive the following:"
+           android:textColor="#333333"
+           android:textSize="16sp"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toTopOf="parent" />
+
+       <TextView
+           android:id="@+id/text4"
+           android:layout_width="wrap_content"
+           android:layout_height="40dp"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="10dp"
+           android:fontFamily="@font/roboto"
+           android:text="Activity emails"
+           android:textColor="#333333"
+           android:textSize="16sp"
+           app:layout_constraintBottom_toBottomOf="@+id/activityEmailsTextInputLayout"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/text3" />
+
+       <TextView
+           android:id="@+id/text3"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="10dp"
+           android:layout_marginEnd="20dp"
+           android:fontFamily="@font/roboto"
+           android:text="Emails"
+           android:textColor="#333333"
+           android:textSize="18sp"
+           android:textStyle="bold"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/text" />
+
+       <com.google.android.material.textfield.TextInputLayout
+           android:id="@+id/activityEmailsTextInputLayout"
+           style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+           android:layout_width="200dp"
+           android:layout_height="40dp"
+           android:layout_marginStart="20dp"
+           android:hint="Activity emails"
+           app:layout_constraintStart_toEndOf="@+id/text4"
+           app:layout_constraintTop_toBottomOf="@+id/text3">
+
+           <AutoCompleteTextView
+               android:id="@+id/activityEmailsAutoCompleteTextView"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:inputType="none" />
+       </com.google.android.material.textfield.TextInputLayout>
+
+
+       <CheckBox
+           android:id="@+id/monthlyPersonalizedCourse"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="20dp"
+           android:checked="true"
+           android:buttonTint="@color/design_default_color_primary"
+           android:fontFamily="@font/roboto"
+           android:text="Monthly personalized course"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/text4" />
+
+       <CheckBox
+           android:id="@+id/monthlyPersonalizedCourse3"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="10dp"
+           android:checked="true"
+           android:buttonTint="@color/design_default_color_primary"
+           android:fontFamily="@font/roboto"
+           android:text="Discussion Forums"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/weeklyNotification" />
+
+       <CheckBox
+           android:id="@+id/monthlyPersonalizedCourse4"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="10dp"
+           android:checked="true"
+           android:buttonTint="@color/design_default_color_primary"
+           android:fontFamily="@font/roboto"
+           android:text="Don’t send any promotional email"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/monthlyPersonalizedCourse3" />
+
+       <CheckBox
+           android:id="@+id/weeklyNotification"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="10dp"
+           android:layout_marginEnd="20dp"
+           android:checked="false"
+           android:buttonTint="@color/design_default_color_primary"
+           android:fontFamily="@font/roboto"
+           android:text="Weekly notifications about promotions, programs, and special events"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/monthlyPersonalizedCourse" />
+
+       <View
+           android:id="@+id/view"
+           android:layout_width="match_parent"
+           android:layout_height="2dp"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="20dp"
+           android:layout_marginEnd="20dp"
+           android:background="#333333"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/monthlyPersonalizedCourse4" />
+
+       <TextView
+           android:id="@+id/appearanceAndSound"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="20dp"
+           android:layout_marginEnd="20dp"
+           android:fontFamily="@font/roboto"
+           android:text="Appearance and sound"
+           android:textColor="#333333"
+           android:textSize="16sp"
+           android:textStyle="bold"
+           app:layout_constraintEnd_toEndOf="parent"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/view" />
+
+       <TextView
+           android:id="@+id/appearanceAndSound2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="20dp"
+           android:fontFamily="@font/roboto"
+           android:text="Show message preview"
+           android:textColor="#333333"
+           android:textSize="16sp"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/appearanceAndSound" />
+
+       <TextView
+           android:id="@+id/appearanceAndSound3"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="20dp"
+           android:layout_marginTop="20dp"
+           android:fontFamily="@font/roboto"
+           android:text="Play sound for notifications"
+           android:textColor="#333333"
+           android:textSize="16sp"
+           app:layout_constraintStart_toStartOf="parent"
+           app:layout_constraintTop_toBottomOf="@+id/appearanceAndSound2" />
+
+       <com.google.android.material.switchmaterial.SwitchMaterial
+           android:id="@+id/showMsgPreviewSwitch"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="30dp"
+           android:padding="10dp"
+           android:text=""
+           android:checked="true"
+           app:useMaterialThemeColors="false"
+           app:thumbTint="@color/color_white"
+           app:trackTint="@color/design_default_color_primary"
+           app:layout_constraintStart_toEndOf="@+id/appearanceAndSound2"
+           app:layout_constraintTop_toBottomOf="@+id/appearanceAndSound" />
+
+       <com.google.android.material.switchmaterial.SwitchMaterial
+           android:id="@+id/showMsgPreviewSwitch2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginStart="30dp"
+           android:padding="10dp"
+           android:text=""
+           app:useMaterialThemeColors="false"
+           app:thumbTint="@color/color_white"
+           app:trackTint="@color/design_default_color_primary"
+           app:layout_constraintStart_toEndOf="@+id/appearanceAndSound2"
+           app:layout_constraintTop_toBottomOf="@+id/showMsgPreviewSwitch" />
+
+   </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

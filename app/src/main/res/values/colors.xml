@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--color codes as declared in the ui-->
+    <color name="red">#EC4848</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple">#625A99</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_ash">#EEEEEE</color>
+    <color name="black">#333333</color>
+    <color name="yellow">#F3AD43</color>
+    <color name="ash">#A3A3A3</color>
+    <color name="green">#41AD49</color>
+    <color name="dark_ash">#666666</color>
+    <color name="dark_purple">#252425</color>
+    <color name="color_toolbar_secondary">#252425</color>
+    <color name="color_status_bar">#252425</color>
+    <color name="grey40">#cdcdcd</color>
+    <color name="red_deep">#ED0606</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="circleColor">#625A99</color>
+
+    <!--@todo: some of them are not required. remove them-->
+    <color name="light_2">#FAFAFA</color>
+    <color name="light_3">#EBEBEB</color>
+    <color name="light_4">#C4C4C4</color>
+    <color name="light_5">#EDEFE7E7</color>
+    <color name="dark_2">#666666</color>
+    <color name="dark_3">#C4C4C4</color>
+    <color name="dark_4">#F4F4F4</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_ash_2">#999999</color>
+    <color name="purple_dark">#443453</color>
+    <color name="purple_light">#E8DAFF</color>
+    <color name="light_blue">#0077B7</color>
+    <color name="background">#f6f6f6</color>
+    <color name="theme_color">#FFFFFFFF</color>
+    <color name="text_color">#333333</color>
+    <color name="progress_color">#625A99</color>
+    <color name="progress_text_color">#333333</color>
+    <color name="colorError">#FF6060</color>
+
+</resources>

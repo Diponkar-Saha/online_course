@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_icon"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/ic_explore_icon"
+        android:title="All Course" />
+
+    <item
+        android:id="@+id/nav_my_courses"
+        android:icon="@drawable/ic_my_courses_icon"
+        app:iconTint="@color/light_blue"
+        android:title="My Courses" />
+    <item
+        android:id="@+id/nav_cart"
+        android:icon="@drawable/ic_cart_icon"
+        android:title="Cart" />
+    <item
+        android:id="@+id/nav_menu"
+        android:icon="@drawable/ic_menu_icon"
+        android:title="Menu" />
+</menu>

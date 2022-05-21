@@ -1,0 +1,24 @@
+aws prodile name:testapp
+asw user name : testapp
+
+ accessKeyId:  AKIAQLADYSLTWW64J7QU
+? secretAccessKey: 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
+
+>amplify add auth
+
+ Do you want to use the default authentication and security configuration? Default configuration
+ Warning: you will not be able to edit these selections.
+ How do you want users to be able to sign in? Email
+ Do you want to configure advanced settings? No, I am done.
+
+ 5E:F2:8A:D9:93:25:8D:85:7C:CC:72:20:0B:D4:14:60:C1:78:EB:D9
+
+ 36:18:3A:4D:51:5E:71:39:1B:3F:53:E9:73:2C:0C:FE:B4:E2:5E:1A:78:FA:FC:52:92:38:AD:41:67:CB:AF:18
+
+
+gg c id
+1030988968170-jr32v9g0dfim1lo5g4kkd5rliat16mg2.apps.googleusercontent.com
+
+c s
+
+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

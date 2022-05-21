@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ui.profile.fragment.ContactFragment">
+
+    <TextView
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:textSize="18sp"
+        android:id="@+id/phone_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  +8801917300500"
+        app:drawableStartCompat="@drawable/phone" />
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/phone_number"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:textSize="18sp"
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  JohnDow@gmail.com"
+        app:drawableStartCompat="@drawable/email" />
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/email"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:textSize="18sp"
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  Dhanmondi 32, Dhaka"
+        app:drawableStartCompat="@drawable/location" />
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/location"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:id="@+id/Social"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Social" />
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/Social"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:id="@+id/fb"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" www.facebook.com/johndhow"
+        app:drawableStartCompat="@drawable/facebook" />
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/fb"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:id="@+id/instagram"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" www.instagram.com/johndhow"
+        app:drawableStartCompat="@drawable/instagram" />
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/instagram"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:id="@+id/twitter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" www.twitter.com/johndhow"
+        app:drawableStartCompat="@drawable/twitter" />
+
+    <TextView
+        app:layout_constraintTop_toBottomOf="@id/twitter"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="15dp"
+        android:textSize="16sp"
+        android:textColor="@color/black"
+        android:id="@+id/linkin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" www.twitter.com/johndhow"
+        app:drawableStartCompat="@drawable/linkedin" />
+
+    <View
+        app:layout_constraintTop_toBottomOf="@+id/linkin"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

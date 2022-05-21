@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="6dp">
+
+
+    <TextView
+        android:id="@+id/forumTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nogor Baul New Song Release"
+        android:textColor="@color/black"
+        android:layout_marginStart="10dp"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/subDesc"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="proper cookery renders good food material more digestible"
+        android:textColor="@color/dark_2"
+        android:layout_marginTop="5dp"
+        android:maxLines="2"
+        app:layout_constraintEnd_toStartOf="@+id/guideline2"
+        app:layout_constraintStart_toStartOf="@+id/forumTitle"
+        app:layout_constraintTop_toBottomOf="@+id/forumTitle" />
+
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="last post 3 days"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/dark_2"
+        app:layout_constraintStart_toStartOf="@+id/subDesc"
+        app:layout_constraintTop_toBottomOf="@+id/subDesc" />
+
+    <TextView
+        android:id="@+id/numberofThread"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="660"
+        android:layout_marginStart="5dp"
+        android:textColor="@color/dark_2"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/subDesc"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/threads"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Threads"
+        android:textColor="@color/dark_2"
+        app:layout_constraintStart_toEndOf="@+id/subDesc"
+        app:layout_constraintTop_toBottomOf="@+id/numberofThread" />
+
+    <ImageView
+        android:id="@+id/rightArrow"
+        android:layout_width="30dp"
+        android:layout_height="35dp"
+        android:background="@drawable/ic_right"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.66" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

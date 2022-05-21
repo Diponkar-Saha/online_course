@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amarischoolandroid-dev-174048-authRole",
+      "UnauthRoleArn": "arn:aws:iam::023630222055:role/amplify-amarischoolandroid-dev-174048-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::023630222055:role/amplify-amarischoolandroid-dev-174048-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-amarischoolandroid-dev-174048-deployment",
+      "UnauthRoleName": "amplify-amarischoolandroid-dev-174048-unauthRole",
+      "StackName": "amplify-amarischoolandroid-dev-174048",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:023630222055:stack/amplify-amarischoolandroid-dev-174048/1b9a1e30-a130-11ec-b7bb-0aa0f5016b70",
+      "AmplifyAppId": "d3nzu21aqqf9np"
+    },
+    "categories": {
+      "auth": {
+        "amarischoolandroid5c3db5d1": {}
+      }
+    }
+  }
+}

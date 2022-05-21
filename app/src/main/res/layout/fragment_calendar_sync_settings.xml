@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.settings.fragments.CalendarSyncSettingsFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/permissionText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="@dimen/list_item_spacing"
+            android:layout_marginEnd="20dp"
+            android:fontFamily="@font/roboto"
+            android:text="@string/calender_subtitle"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/permissionText3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/calender_add_to_my_calender"
+            android:textColor="@color/black"
+            android:textSize="17sp"
+            android:layout_marginTop="@dimen/list_item_spacing"
+            app:layout_constraintStart_toStartOf="@+id/permissionText2"
+            app:layout_constraintTop_toBottomOf="@+id/permissionText2" />
+
+        <Button
+            android:id="@+id/googleCalenderButton"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="@dimen/btn_settings_calender_width"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_google_calender"
+            android:textColor="@color/black"
+            android:layout_marginTop="@dimen/list_item_spacing"
+            app:layout_constraintStart_toStartOf="@+id/permissionText3"
+            app:layout_constraintTop_toBottomOf="@+id/permissionText3"
+            app:strokeColor="@color/black" />
+
+        <Button
+            android:id="@+id/otherCalenderButton"
+            style="?attr/materialButtonOutlinedStyle"
+            android:layout_width="@dimen/btn_settings_calender_width"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/settings_item_spacing"
+            android:text="@string/btn_other_calender"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toStartOf="@+id/googleCalenderButton"
+            app:layout_constraintTop_toBottomOf="@+id/googleCalenderButton"
+            app:strokeColor="@color/black" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

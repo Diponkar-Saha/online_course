@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.settings.fragments.PermissionSettingsFragment">
+
+ <androidx.constraintlayout.widget.ConstraintLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
+
+     <TextView
+         android:id="@+id/permissionText"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginStart="20dp"
+         android:layout_marginTop="20dp"
+         android:layout_marginEnd="20dp"
+         android:fontFamily="@font/roboto"
+         android:text="Get the most out of the apps you add as tabs by allowing them to access your device. Apply the same permissions to all of them, or customize them individually below."
+         android:textColor="#333333"
+         android:textSize="16sp"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent" />
+
+     <androidx.constraintlayout.widget.ConstraintLayout
+         android:id="@+id/cameraConstraintLayout"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginStart="20dp"
+         android:layout_marginTop="30dp"
+         android:layout_marginEnd="20dp"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@+id/permissionText">
+
+         <TextView
+             android:id="@+id/cameraText"
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:fontFamily="@font/roboto"
+             android:text="Camera"
+             android:textColor="#333333"
+             android:textSize="16sp"
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toTopOf="parent" />
+
+         <com.google.android.material.switchmaterial.SwitchMaterial
+             android:id="@+id/cameraSwitch"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="30dp"
+             android:checked="true"
+             android:padding="10dp"
+             android:text=""
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toEndOf="@+id/cameraText"
+             app:layout_constraintTop_toTopOf="parent"
+             app:thumbTint="@color/color_white"
+             app:trackTint="@color/design_default_color_primary"
+             app:useMaterialThemeColors="false" />
+     </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+     <androidx.constraintlayout.widget.ConstraintLayout
+         android:id="@+id/microphoneConstraintLayout"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginStart="20dp"
+         android:layout_marginTop="30dp"
+         android:layout_marginEnd="20dp"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@+id/cameraConstraintLayout">
+
+         <TextView
+             android:id="@+id/microphoneText"
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:fontFamily="@font/roboto"
+             android:text="Microphone"
+             android:textColor="#333333"
+             android:textSize="16sp"
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toTopOf="parent" />
+
+         <com.google.android.material.switchmaterial.SwitchMaterial
+             android:id="@+id/microphoneSwitch"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="30dp"
+             android:checked="false"
+             android:padding="10dp"
+             android:text=""
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toEndOf="@+id/microphoneText"
+             app:layout_constraintTop_toTopOf="parent"
+             app:thumbTint="@color/color_white"
+             app:trackTint="@color/design_default_color_primary"
+             app:useMaterialThemeColors="false" />
+     </androidx.constraintlayout.widget.ConstraintLayout>
+     <androidx.constraintlayout.widget.ConstraintLayout
+         android:id="@+id/speakersConstraintLayout"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginStart="20dp"
+         android:layout_marginTop="30dp"
+         android:layout_marginEnd="20dp"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@+id/microphoneConstraintLayout">
+
+         <TextView
+             android:id="@+id/speakersText"
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:fontFamily="@font/roboto"
+             android:text="Speakers"
+             android:textColor="#333333"
+             android:textSize="16sp"
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toTopOf="parent" />
+
+         <com.google.android.material.switchmaterial.SwitchMaterial
+             android:id="@+id/speakersSwitch"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="30dp"
+             android:checked="true"
+             android:padding="10dp"
+             android:text=""
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toEndOf="@+id/speakersText"
+             app:layout_constraintTop_toTopOf="parent"
+             app:thumbTint="@color/color_white"
+             app:trackTint="@color/design_default_color_primary"
+             app:useMaterialThemeColors="false" />
+     </androidx.constraintlayout.widget.ConstraintLayout>
+     <androidx.constraintlayout.widget.ConstraintLayout
+         android:id="@+id/externalLinksConstraintLayout"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginStart="20dp"
+         android:layout_marginTop="30dp"
+         android:layout_marginEnd="20dp"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toBottomOf="@+id/speakersConstraintLayout">
+
+         <TextView
+             android:id="@+id/externalLinksText"
+             android:layout_width="100dp"
+             android:layout_height="wrap_content"
+             android:fontFamily="@font/roboto"
+             android:text="External links"
+             android:textColor="#333333"
+             android:textSize="16sp"
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toStartOf="parent"
+             app:layout_constraintTop_toTopOf="parent" />
+
+         <com.google.android.material.switchmaterial.SwitchMaterial
+             android:id="@+id/externalLinksSwitch"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginStart="30dp"
+             android:checked="false"
+             android:padding="10dp"
+             android:text=""
+             app:layout_constraintBottom_toBottomOf="parent"
+             app:layout_constraintStart_toEndOf="@+id/externalLinksText"
+             app:layout_constraintTop_toTopOf="parent"
+             app:thumbTint="@color/color_white"
+             app:trackTint="@color/design_default_color_primary"
+             app:useMaterialThemeColors="false" />
+     </androidx.constraintlayout.widget.ConstraintLayout>
+
+ </androidx.constraintlayout.widget.ConstraintLayout>
+
+</FrameLayout>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/question_no"
+        android:text="@string/question"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/question_title"
+        android:text="@string/question_title"
+        android:textSize="17sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/question_no"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/question"
+        android:text="@string/which_city_do_you_live"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/question_title"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_blank_one"
+        app:layout_constraintTop_toBottomOf="@id/question"
+        app:layout_constraintStart_toStartOf="parent"
+        app:cardBackgroundColor="@color/light_3"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="8dp"
+        android:layout_width="150dp"
+        android:layout_height="40dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_1"
+            android:text="@string/blank_1"
+            android:padding="8dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_card_one"
+        app:layout_constraintTop_toBottomOf="@id/question_blank_one"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="8dp"
+        android:layout_width="150dp"
+        android:layout_height="40dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_one"
+            android:text="@string/comilla"
+            android:padding="8dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_card_two"
+        app:layout_constraintTop_toBottomOf="@id/question_card_one"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="8dp"
+        android:layout_width="150dp"
+        android:layout_height="40dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_two"
+            android:text="@string/comilla"
+            android:padding="8dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_card_five"
+        app:layout_constraintTop_toBottomOf="@id/question_card_two"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="15dp"
+        android:layout_marginStart="20dp"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="8dp"
+        android:layout_width="150dp"
+        android:layout_height="40dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_five"
+            android:text="@string/comilla"
+            android:padding="8dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_blank_two"
+        app:layout_constraintTop_toBottomOf="@id/question"
+        app:layout_constraintStart_toEndOf="@id/question_blank_one"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:cardBackgroundColor="@color/light_3"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        app:cardElevation="8dp"
+        app:cardCornerRadius="8dp"
+        android:layout_width="150dp"
+        android:layout_height="40dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_2"
+            android:text="@string/blank_2"
+            android:padding="8dp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_card_three"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/question_blank_two"
+        app:layout_constraintStart_toEndOf="@id/question_card_one">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:textColor="@color/black"
+            android:text="@string/comilla" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_card_four"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/question_card_three"
+        app:layout_constraintStart_toEndOf="@id/question_card_two"
+        tools:layout_editor_absoluteY="104dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="8dp"
+            android:text="@string/comilla" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/question_card_six"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        app:cardCornerRadius="8dp"
+        app:cardElevation="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/question_card_four"
+        app:layout_constraintStart_toEndOf="@id/question_card_five"
+        tools:layout_editor_absoluteY="104dp">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/question_six"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:padding="8dp"
+            android:text="@string/comilla" />
+
+    </com.google.android.material.card.MaterialCardView>
+    <View
+        app:layout_constraintTop_toBottomOf="@id/question_card_six"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

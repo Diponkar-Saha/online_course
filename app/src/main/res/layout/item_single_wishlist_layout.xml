@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#F5F5F5"
+
+    android:layout_height="wrap_content">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardBtn"
+            style="@style/CartFragmentCardView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="10dp"
+                android:orientation="vertical"
+                android:paddingBottom="5dp">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/image_container"
+                    android:layout_width="100dp"
+                    android:layout_height="80dp"
+                    app:cardCornerRadius="@dimen/card_radius_default"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <ImageView
+                        android:id="@+id/courseImg"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/course_demo_img"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+
+                        />
+
+                </androidx.cardview.widget.CardView>
+
+
+                <TextView
+                    android:id="@+id/courseTitle"
+                    android:layout_width="129dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="5dp"
+                    android:layout_weight="1"
+                    android:text="Introduction to data structure"
+                    android:textColor="@color/text_color"
+                    android:textSize="17sp"
+                    app:layout_constraintStart_toEndOf="@+id/image_container"
+                    app:layout_constraintTop_toTopOf="@+id/image_container" />
+
+                <RatingBar
+                    android:id="@+id/courseRatingBar"
+                    style="?android:attr/ratingBarStyleSmall"
+                    android:layout_width="82dp"
+                    android:layout_height="16dp"
+                    android:layout_marginTop="5dp"
+
+                    android:isIndicator="false"
+                    android:numStars="5"
+                    android:progressTint="#ffc600"
+                    android:rating="4.5"
+                    android:secondaryProgressTint="#9B32C8"
+                    android:stepSize="0.5"
+                    app:layout_constraintStart_toStartOf="@+id/courseTitle"
+                    app:layout_constraintTop_toBottomOf="@+id/courseTitle" />
+
+                <ImageView
+                    android:id="@+id/cancelBan"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:background="@drawable/delete_icon"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/buyNowBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/roboto"
+                    android:text="Buy Now"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="10dp"
+                    app:layout_constraintBottom_toBottomOf="@+id/courseBillTextView"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@+id/courseBillTextView" />
+
+                <TextView
+                    android:id="@+id/currency"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="৳"
+                    android:textColor="@color/text_color"
+                    app:layout_constraintBottom_toBottomOf="@+id/courseBillTextView"
+                    app:layout_constraintEnd_toStartOf="@+id/courseBillTextView"
+                    app:layout_constraintTop_toTopOf="@+id/courseBillTextView" />
+
+                <TextView
+                    android:id="@+id/courseBillTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="15dp"
+                    android:text="4500"
+                    android:textColor="@color/text_color"
+                    android:textSize="15sp"
+                    app:layout_constraintBottom_toBottomOf="@+id/studentsEnrolledTextView"
+                    app:layout_constraintStart_toEndOf="@+id/studentsEnrolledTextView"
+                    app:layout_constraintTop_toTopOf="@+id/studentsEnrolledTextView" />
+
+                <TextView
+                    android:id="@+id/ratingTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="4.5"
+                    android:textSize="13sp"
+                    app:layout_constraintBottom_toBottomOf="@+id/courseRatingBar"
+                    app:layout_constraintStart_toEndOf="@+id/courseRatingBar"
+                    app:layout_constraintTop_toTopOf="@+id/courseRatingBar" />
+
+                <TextView
+                    android:id="@+id/studentsEnrolledTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+
+                    android:text="468 students takes"
+                    android:textSize="10sp"
+                    app:layout_constraintStart_toStartOf="@+id/courseRatingBar"
+                    app:layout_constraintTop_toBottomOf="@+id/courseRatingBar" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.cardview.widget.CardView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

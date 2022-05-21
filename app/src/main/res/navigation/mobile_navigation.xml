@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.pioneeralpha.amarischool.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_moreCourseFragment"
+            app:destination="@id/moreCourseFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_explore"
+        android:name="com.pioneeralpha.amarischool.ui.explore.ExploreFragment"
+        android:label="Explore"
+        tools:layout="@layout/fragment_explore" />
+
+    <fragment
+        android:id="@+id/nav_my_courses"
+        android:name="com.pioneeralpha.amarischool.ui.mycourses.MyCoursesFragment"
+        android:label="My Courses"
+        tools:layout="@layout/fragment_my_courses" />
+    <fragment
+        android:id="@+id/nav_cart"
+        android:name="com.pioneeralpha.amarischool.ui.cart.CartFragment"
+        android:label="Cart"
+        tools:layout="@layout/fragment_my_courses" />
+    <fragment
+        android:id="@+id/nav_menu"
+        android:name="com.pioneeralpha.amarischool.ui.menu.MenuFragment"
+        android:label="Menu"
+        tools:layout="@layout/fragment_menu" />
+    <fragment
+        android:id="@+id/nav_wishlist"
+        android:name="com.pioneeralpha.amarischool.WishlistFragment"
+        android:label="Wishlist"
+        tools:layout="@layout/wishlist_layout" />
+    <fragment
+        android:id="@+id/moreCourseFragment"
+        android:name="com.pioneeralpha.amarischool.MoreCourseFragment"
+        android:label="fragment_more_course"
+        tools:layout="@layout/fragment_more_course" />
+
+</navigation>

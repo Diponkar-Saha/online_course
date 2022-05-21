@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="@dimen/list_item_spacing"
+    android:scrollbars="none">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/window_margin_left_right"
+        android:layout_marginEnd="@dimen/window_margin_left_right"
+        android:focusable="false"
+        android:focusableInTouchMode="true">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/user_img"
+            android:layout_width="@dimen/profile_picture_size"
+            android:layout_height="@dimen/profile_picture_size"
+            android:layout_marginTop="@dimen/list_item_spacing"
+            android:padding="5dp"
+            android:src="@drawable/ic_dummy_user"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/floatingActionButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:contentDescription="@string/fab_upload_photo"
+            android:focusable="true"
+            app:backgroundTint="@color/purple"
+            app:fabCustomSize="30dp"
+            app:layout_constraintBottom_toBottomOf="@+id/user_img"
+            app:layout_constraintEnd_toEndOf="@+id/user_img"
+            app:maxImageSize="15dp"
+            app:srcCompat="@drawable/ic_camera"
+            app:tint="@color/white" />
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_item_spacing"
+            android:hint="@string/hint_enter_your_name"
+            android:textColor="@color/black"
+            app:hintTextColor="#333333"
+            android:drawablePadding="10dp"
+            android:layout_centerInParent="true"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/user_img"
+            android:drawableLeft="@drawable/ic_user"
+            android:drawableRight="@drawable/ic_pencil"
+            app:startIconTint="@color/purple">
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_mail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:hint="@string/hint_enter_your_email"
+            android:textColor="@color/black"
+            app:hintTextColor="@color/ash"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_name"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/ic_email1"
+            android:drawableRight="@drawable/ic_pencil">
+
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:hint="@string/hint_enter_your_password"
+            android:textColor="@color/black"
+            app:hintTextColor="@color/ash"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_mail"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/ic_lock"
+            android:drawableRight="@drawable/ic_pencil">
+
+
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:hint="@string/hint_enter_your_phone"
+            app:hintTextColor="#333333"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_pass"
+
+            app:startIconTint="@color/purple"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/ic_call"
+            android:drawableRight="@drawable/ic_pencil">
+        </androidx.appcompat.widget.AppCompatEditText>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_fb_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:hint="Facebook"
+
+            app:hintTextColor="#333333"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_phone"
+
+            app:startIconTint="@color/purple"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/ic_facebook">
+
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/link_bg"
+            android:gravity="center"
+            android:text="link"
+
+            app:layout_constraintBottom_toBottomOf="@+id/input_fb_link"
+            app:layout_constraintEnd_toEndOf="parent">
+
+        </androidx.appcompat.widget.AppCompatButton>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_linkedin_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:hint="Linkedin"
+            app:hintTextColor="#333333"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_fb_link"
+            app:startIconTint="@color/purple"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/ic_linkedin">
+
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/link_bg"
+            android:gravity="center"
+            android:text="link"
+            app:layout_constraintBottom_toBottomOf="@+id/input_linkedin_link"
+            app:layout_constraintEnd_toEndOf="parent">
+
+        </androidx.appcompat.widget.AppCompatButton>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_github_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:hint="Github"
+            app:hintTextColor="#333333"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_linkedin_link"
+
+            app:startIconTint="@color/purple"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/ic_github">
+
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_width="50dp"
+            android:layout_height="35dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/link_bg"
+            android:gravity="center"
+            android:text="link"
+            app:layout_constraintBottom_toBottomOf="@+id/input_github_link"
+            app:layout_constraintEnd_toEndOf="parent">
+
+        </androidx.appcompat.widget.AppCompatButton>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/input_cv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:hint="Cv/Resume"
+            android:textColor="@color/black"
+            app:hintTextColor="#333333"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_github_link"
+
+            app:startIconTint="@color/purple"
+            android:drawablePadding="10dp"
+            android:drawableLeft="@drawable/ic_cv">
+
+
+        </androidx.appcompat.widget.AppCompatEditText>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/pdfupload"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/link_bg"
+            android:drawableStart="@drawable/upload"
+            android:text="Upload"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:drawablePadding="5dp"
+            app:layout_constraintBottom_toBottomOf="@+id/input_cv"
+            app:layout_constraintEnd_toEndOf="parent">
+
+        </androidx.appcompat.widget.AppCompatButton>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/interested"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Interested In"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:drawableLeft="@drawable/black_love"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/input_cv">
+
+        </androidx.appcompat.widget.AppCompatTextView>
+
+        <androidx.appcompat.widget.SearchView
+
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:id="@+id/Searchview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/sv_rounnd_bg"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/interested">
+
+        </androidx.appcompat.widget.SearchView>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/skills"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Skill"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:drawablePadding="10dp"
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:drawableLeft="@drawable/ic_skill"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Searchview">
+
+        </androidx.appcompat.widget.AppCompatTextView>
+
+        <androidx.appcompat.widget.SearchView
+            android:layout_marginTop="@dimen/list_sub_item_spacing"
+            android:id="@+id/skill_search"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/sv_rounnd_bg"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/skills">
+
+        </androidx.appcompat.widget.SearchView>
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
+
+
